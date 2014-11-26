@@ -1,7 +1,7 @@
 # The Ultimate Beamer Theme List
-Since the awesome list of Beamer themes at [latex.simon04.net](http://latex.simon04.net) seems to be down, I am compiling a list of custom themes to use with the LateX [Beamer](http://latex-beamer.sourceforge.net/) class.
+Hi! Below is a table of custom Beamer themes originally taken from [latex.simon04.net](http://latex.simon04.net), now expanded to include a few more themes.
 
-Send a pull request if you wish to add another theme to this repository.
+Want to add yours? Awesome! Send a PR with your link added to the bottom of the table, or email me (see my GitHub profile) and I'll do it for you.
 
 |  Theme |  Preview |  Notes |
 | ------ | -------- | ------ |
@@ -35,6 +35,8 @@ Send a pull request if you wish to add another theme to this repository.
 | [GC3] | [PDF][GC3-pdf] | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri. |
 | [BeamerPorts] | Various on project page | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer |
 | [HSMA] |  | A theme complying with the corporate design of Hochschule Mannheim - University of Applied Science, Germany by Steve Hegenbart. |
+| [Zurich] | [Screenshot][Zurich-screenshot] | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
+| [mtheme] | [Screenshot][mtheme-screenshot] | The mtheme is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
 
 
 
@@ -93,3 +95,7 @@ Send a pull request if you wish to add another theme to this repository.
 [HSMA]: http://latex.simon04.net/hsma_theme.tar.bz2
 [Bjeldbak]: https://github.com/fapper/beamertheme-bjeldbak
 [Bjeldbak-screenshot]: https://github.com/fapper/beamertheme-bjeldbak/blob/master/beamerthemebjeldbak3.png
+[Zurich]: https://github.com/ppletscher/beamerthemezurich
+[Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
+[mtheme]: https://github.com/matze/mtheme
+[mtheme-screenshot]: https://camo.githubusercontent.com/1fc6f10e95421167e228a7198f23b5cb4fa9cf36/687474703a2f2f692e696d6775722e636f6d2f775034754762532e706e67
