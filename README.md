@@ -37,6 +37,33 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [HSMA] | [Screenshot][HSMA-screenshot] | A theme complying with the corporate design of Hochschule Mannheim - University of Applied Science, Germany by Steve Hegenbart. |
 | [Zurich] | [Screenshot][Zurich-screenshot] | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
 | [mtheme] | [PDF][mtheme-pdf] | The mtheme is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
+| [Amsterdam] | [Screenshot][Amsterdam-screenshot] | This theme is called "Amsterdam" and has been created by Rogier Koppejan. It's based on Dresden but with custom colors. |
+| [Frederiksberg] | [PDF][Frederiksberg-pdf] | Frederiksberg beamer theme from the university of Copenhagen. Screenshots of different looks are available [here][Frederiksberg-examples-gallery]. |
+| [UMBC] | [Screenshot][UMBC-screenshot] | A couple of themes made by Rouben Rostamian for UMBC University. |
+| [Uppsala] | [Screenshot][Uppsala-screenshot] | A theme for the Uppsala University of Sweden made by Frédéric Haziza. |
+| [McGill] | [Screenshot][McGill-screenshot] | A theme with a nice McGill layout. |
+| [McGill-alt] | [PDF][McGill-alt-pdf] | A McGill theme that isn't red by Gabi Sarkis. |
+| [Execushares] | [PDF][Execushares-pdf] | A minimalist and modern Beamer theme by Kenton Hamaluik. |
+| [TUGraz] | [Screenshot][TUGraz-screenshot] | A theme using the cooperate identity of the TU Graz, by Martin Weiglhofer. |
+| [aecio] | [PDF][aecio-pdf] | A super simple and clean latex beamer theme, by Aécio Santos. |
+| [supelec] | | A beamer theme for Supélec, by Frédéric Boulanger. |
+| [CWRU] | | A basic Beamer theme for Case Western Reserve University, inspired by Montpellier and created by Matt Ruffalo. |
+| [Flip] | [PDF][Flip-pdf] | A theme by Philip "Flip" Tanedo. |
+| [Ithaca] | [PDF][Ithaca-pdf] | A theme based on Flip, created by Raul Gomez. |
+| [Econ1] | [PDF][Econ1-pdf] | A theme by Rohit Patel. He also has 2 other themes for [Northwestern] and [Kellogg] students. |
+| [Gelugor] | [PDF][Gelugor-pdf] | A theme mimicking Universiti Sains Malaysia (USM)’s Powerpoint presentation template, by Lim Lian Tze. |
+| [Cyberjaya] | [PDF][Cyberjaya-pdf] | A theme mimicking Multimedia University (MMU)’s Powerpoint presentation template, by Lim Lian Tze. |
+| [Skudai] | [PDF][Skudai-pdf] | A theme mimicking Universiti Teknologi Malaysia (UTM)’s Powerpoint presentation template, by Lim Lian Tze. |
+| [Kalgan] | [PDF][Kalgan-pdf] | A dark theme by Kartik Prabhu. |
+| [simple] | [PDF][simple-pdf] | A minimalist theme with a watermark in the background, by Facundo Muñoz. |
+| [brown] |  | A theme for Brown University, by Andreas Kloeckner. |
+| [mit] |  | A theme for MIT based on brown, by Justin Riley. |
+| [sthlm] | [PDF][sthlm-pdf] | A theme heavily based on HSRM but with a slightly different design, the ability to compile with pdfLaTeX, no proprietary fonts required, and of course lots of fun colors packed in. Created by Mark Hendry Olson. |
+| [rured] | [PDF][rured-pdf] | An unofficial theme with the Radboud University colours, by Louis Onrust. |
+| [kuleuven] | [PDF][kuleuven-pdf] | A theme for KU Leuven, by Roland Pastorino. |
+[ [ruhuisstijl] | [PDF][ruhuisstijl-pdf] | A theme which mimics the corporate and departemental style for the Radboud University powerpoint presentations. Created by Louis Onrust. |
+| [INRA] | [Screenshot][INRA-screenshot] | A theme reproducing the new corporate style of INRA, by François Guillaume. |
+
 
 
 
@@ -106,3 +133,54 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
 [mtheme]: https://github.com/matze/mtheme
 [mtheme-pdf]: https://github.com/matze/mtheme/raw/master/demo.pdf
+[Amsterdam]: http://latex.simon04.net/beamerthemeAmsterdam.sty
+[Amsterdam-screenshot]: http://latex.simon04.net/img/amsterdam.jpg
+[Frederiksberg]: http://www.matdat.life.ku.dk/LaTeX/Frederiksberg/
+[Frederiksberg-PDF]: http://www.matdat.life.ku.dk/LaTeX/Frederiksberg/faggrpsem.pdf
+[Frederiksberg-example-gallery]: http://www.matdat.life.ku.dk/LaTeX/Frederiksberg/examples.html
+[UMBC]: http://userpages.umbc.edu/~rostamia/beamer/quickstart-Z-H-8.html#node_sec_8
+[UMBC-screenshot]: http://userpages.umbc.edu/~rostamia/beamer/sample-umbc1.png
+[Uppsala]: http://www.it.uu.se/katalog/daz/uppsala_beamer
+[Uppsala-screenshot]: http://www.it.uu.se/katalog/daz/uppsala_beamer/beamerUppsalaExampleFrame.jpg
+[McGill]: http://structdynviblab.mcgill.ca/archives/layoutBeamerMcGill.7z
+[McGill-screenshot]: http://latex.simon04.net/img/McGill.png
+[McGill-alt]: https://github.com/gsarkis/McGill-Beamer-Theme
+[McGill-alt-pdf]: https://github.com/gsarkis/McGill-Beamer-Theme/raw/master/example.pdf
+[Execushares]: https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares
+[Execushares-pdf]: https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares/raw/master/sample.pdf
+[TUGraz]: http://www.ist.tugraz.at/staff/weiglhofer/misc/tugbeamer/
+[TUGraz-screenshot]: http://www.ist.tugraz.at/staff/weiglhofer/misc/tugbeamer/img/presentation_boxes.png
+[aecio]: https://github.com/aecio/beamer-theme
+[aecio-pdf]: https://github.com/aecio/beamer-theme/raw/master/beamer-demo.pdf
+[supelec]: http://wwwdi.supelec.fr/fb/Software/
+[CWRU]: https://github.com/mruffalo/beamer-theme-cwru
+[Flip]: http://www.physics.uci.edu/~tanedo/docs.html
+[Flip-pdf]: http://www.physics.uci.edu/~tanedo/files/code/FlipBeamerTemplate.pdf
+[Ithaca]: http://www.math.cornell.edu/~gomez/Research.html
+[Ithaca-pdf]: http://www.math.cornell.edu/~gomez/Files/PDF/Ithacatemplate.pdf
+[Econ1]: http://www.rohitpatelecon.com/beamer-themes
+[Econ1-pdf]: https://dl.dropboxusercontent.com/u/10976681/Templates/Econ1.pdf
+[Northwestern]: http://www.rohitpatelecon.com/beamer-themes/northwestern-beamer-theme
+[Kellogg]: http://www.rohitpatelecon.com/beamer-themes/kellogg-beamer-theme
+[Gelugor]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Gelugor
+[Gelugor-pdf]: https://bytebucket.org/liantze/beamer-gelugor/raw/1abaa164be3db398e2d0a485e1e74d461ddc2af3/example.pdf
+[Cyberjaya]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Cyberjaya
+[Cyberjaya-pdf]: https://bytebucket.org/liantze/beamer-cyberjaya/raw/4529f46d1ea8fc102cbaa79069bcd25a0efe6ebe/example.pdf
+[Skudai]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Skudai
+[Skudai-pdf]: https://bytebucket.org/liantze/beamer-skudai/raw/72228a190ca46ad1188acb60015d479d8c8a8f67/example.pdf
+[Kalgan]: https://github.com/kartikprabhu/Kalgan-Mule-template
+[Kalgan-pdf]: https://github.com/kartikprabhu/Kalgan-Mule-template/raw/master/beamerexample.pdf
+[simple]: https://github.com/famuvie/beamerthemesimple
+[simple-pdf]: https://github.com/famuvie/beamerthemesimple/raw/master/demo.pdf
+[brown]: http://git.tiker.net/brown-beamer.git
+[mit]: https://github.com/jtriley/mit-beamer
+[sthlm]: http://hendryolson.com/resources/resources.html#stockholmbeamertheme
+[sthlm-pdf]: https://dl.dropboxusercontent.com/s/uc8s6d4wjuwdaz4/20130731-093333-rs2.2B-TemplatesthlmBeamerTheme.pdf?dl=0
+[rured]: https://github.com/naiaden/presentations/tree/master/rured
+[rured-pdf]: https://github.com/naiaden/presentations/raw/master/rured/example.pdf
+[kuleuven]: https://github.com/naiaden/presentations/tree/master/Leuven-9monthsprogress
+[kuleuven-pdf]: https://github.com/naiaden/presentations/raw/master/Leuven-9monthsprogress/presentation/progresspresentation.pdf
+[ruhuisstijl]: https://github.com/naiaden/presentations/tree/master/ruhuisstijl
+[ruhuisstijl-pdf]: https://github.com/naiaden/presentations/raw/master/ruhuisstijl/distributed/example.pdf
+[INRA]: https://forge-dga.jouy.inra.fr/projects/inra_beamer_theme
+[INRA-screenshot]: https://genomeek.files.wordpress.com/2013/05/inrabeamer.png
