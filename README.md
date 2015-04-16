@@ -61,7 +61,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [sthlm] | [PDF][sthlm-pdf] | A theme heavily based on HSRM but with a slightly different design, the ability to compile with pdfLaTeX, no proprietary fonts required, and of course lots of fun colors packed in. Created by Mark Hendry Olson. |
 | [rured] | [PDF][rured-pdf] | An unofficial theme with the Radboud University colours, by Louis Onrust. |
 | [kuleuven] | [PDF][kuleuven-pdf] | A theme for KU Leuven, by Roland Pastorino. |
-[ [ruhuisstijl] | [PDF][ruhuisstijl-pdf] | A theme which mimics the corporate and departemental style for the Radboud University powerpoint presentations. Created by Louis Onrust. |
+| [ruhuisstijl] | [PDF][ruhuisstijl-pdf] | A theme which mimics the corporate and departemental style for the Radboud University powerpoint presentations. Created by Louis Onrust. |
 | [INRA] | [Screenshot][INRA-screenshot] | A theme reproducing the new corporate style of INRA, by François Guillaume. |
 
 
