@@ -9,7 +9,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for latex beamer made by Fabrice Gadaud. |
 | [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
 | [TU/e PDFScreen][tue-pdfscreen]  | [PDF][tue-pdfscreen-pdf]  | It's the post dated January 31, 2008. |
-| [IAS themes] |  | Created by Frans Oliehoek. |
+| [IAS themes] | [Screenshot][IAS themes-screenshot] | Created by Frans Oliehoek. |
 | [KDE Oxygen-style] | [PDF][KDE Oxygen-style-pdf] | Two beautiful KDE themes exist, one's called "Oxygen", the other "Air". |
 | [Stockton] | [Screenshot][Stockton-screenshot] |  From the University of the Pacific. |
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
@@ -24,7 +24,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. See the related blog post here [bunsen-web] |
 | [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
 | [ZBH] |  | Unofficial Beamer theme for the ZBH of the University of Hamburg.  |
-| [TU-BS] |  | A beamer theme complying with the corporate design of TU Braunschweig. |
+| [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of TU Braunschweig. |
 | [carlworld-beamer-slide-theme] |  | Carl Compliant Beamer slide theme. |
 | [intridea] |  | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
@@ -34,9 +34,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
 | [GC3] | [PDF][GC3-pdf] | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri. |
 | [BeamerPorts] | Various on project page | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer |
-| [HSMA] |  | A theme complying with the corporate design of Hochschule Mannheim - University of Applied Science, Germany by Steve Hegenbart. |
+| [HSMA] | [Screenshot][HSMA-screenshot] | A theme complying with the corporate design of Hochschule Mannheim - University of Applied Science, Germany by Steve Hegenbart. |
 | [Zurich] | [Screenshot][Zurich-screenshot] | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
-| [mtheme] | [Screenshot][mtheme-screenshot] | The mtheme is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
+| [mtheme] | [PDF][mtheme-pdf] | The mtheme is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
 
 
 
@@ -50,7 +50,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [diepen style-screenshot]: http://www.guidodiepen.nl/wp-content/uploads/2009/04/example-1.png
 [tue-pdfscreen]: http://www.win.tue.nl/latex/windows.html
 [tue-pdfscreen-pdf]: http://www.win.tue.nl/latex/slides.pdf
-[IAS themes]: http://staff.science.uva.nl/~faolieho/index.php?fuseaction=var.beamer
+[IAS themes]: http://fransoliehoek.net/index.php?fuseaction=var.beamer
+[IAS themes-screenshot]: http://fransoliehoek.net/var/images//IAS_sidebarNav.jpg
 [KDE Oxygen-style]: http://www.kde.org/kdeslides/
 [KDE Oxygen-style-pdf]: http://www.kde.org/kdeslides/templates/example-talk.pdf
 [Stockton]: http://www1.pacific.edu/~smerz/Pacific_Beamer_Theme.html
@@ -79,10 +80,11 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [LSE-pdf]: https://github.com/christophergandrud/LSE-Beamer-Theme/raw/master/Example.pdf
 [ZBH]: https://github.com/satta/zbh-beamer-theme
 [TU-BS]: https://github.com/ValiValpas/LaTeX-beamer-TU-BS-corporate-design-theme
+[TU-BS-pdf]: https://github.com/ValiValpas/LaTeX-beamer-TU-BS-corporate-design-theme/raw/master/title.pdf
 [carlworld-beamer-slide-theme]: https://github.com/rob-p/carlworld-beamer-slide-theme
 [intridea]: https://github.com/doitian/intridea-beamer-theme
 [HongKong]: https://github.com/quxiaofeng/PolyU_beamer_theme
-[HongKong-pdf]: https://github.com/quxiaofeng/PolyU_beamer_theme/raw/master/example/newexample.pdf
+[HongKong-pdf]: https://github.com/quxiaofeng/PolyU_beamer_theme/raw/master/example/example.pdf
 [Keynote-esque]: http://www.shawnlankton.com/2008/02/beamer-and-latex-with-keynote-theme/
 [Keynote-esque-pdf]: http://www.shawnlankton.com/wp-content/uploads/files/latex/beamer_demo.pdf
 [Subdued]: http://cameron.bracken.bz/beamer-template
@@ -93,9 +95,10 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [GC3-pdf]: https://github.com/gc3-uzh-ch/beamer-theme-gc3/raw/master/example.pdf
 [BeamerPorts]: https://bitbucket.org/marczellm/beamerports/src
 [HSMA]: http://latex.simon04.net/hsma_theme.tar.bz2
+[HSMA-screenshot]: http://latex.simon04.net/img/hsma.png
 [Bjeldbak]: https://github.com/fapper/beamertheme-bjeldbak
 [Bjeldbak-screenshot]: https://github.com/fapper/beamertheme-bjeldbak/blob/master/beamerthemebjeldbak3.png
 [Zurich]: https://github.com/ppletscher/beamerthemezurich
 [Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
 [mtheme]: https://github.com/matze/mtheme
-[mtheme-screenshot]: https://camo.githubusercontent.com/1fc6f10e95421167e228a7198f23b5cb4fa9cf36/687474703a2f2f692e696d6775722e636f6d2f775034754762532e706e67
+[mtheme-pdf]: https://github.com/matze/mtheme/raw/master/demo.pdf
