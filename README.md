@@ -14,21 +14,21 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Stockton] | [Screenshot][Stockton-screenshot] |  From the University of the Pacific. |
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
 | [UA] | [Screenshot][UA-screenshot] | A LaTeX beamer theme for the University of Antwerp. |
-| [UniversiteitGent] | [screenshot][UniversiteitGent-screenshot] | This is a LaTeX beamer theme for the University of Ghent, based on the UA theme. |
+| [UniversiteitGent] | [Screenshot][UniversiteitGent-screenshot] | This is a LaTeX beamer theme for the University of Ghent, based on the UA theme. |
 | [UNL] | [PDF][UNL-pdf] | Chris Bourke made a nice theme for the University of Nebraska-Lincoln. |
 | [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
 | [makokal-JUB] | [PDF][makokal-JUB-pdf] | Okal Billy's theme used while at Jacobs University. |
 | [Kyoto] | [PDF][Kyoto-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
-| [Lleida] || A theme created by Paulo Jorge Matos. |
+| [Lleida] | [Screenshot][Lleida-screenshot] | A theme created by Paulo Jorge Matos. |
 | [Sybila] | [PDF][Sybila-pdf] | A theme created by Sybila. |
 | [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. See the related blog post here [bunsen-web] |
 | [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
-| [ZBH] |  | Unofficial Beamer theme for the ZBH of the University of Hamburg.  |
+| [ZBH] | [Screenshot][ZBH-screenshot] | Unofficial Beamer theme for the ZBH of the University of Hamburg.  |
 | [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of TU Braunschweig. |
-| [carlworld-beamer-slide-theme] |  | Carl Compliant Beamer slide theme. |
-| [intridea] |  | A Beamer theme for Intridea. |
+| [carlworld-beamer-slide-theme] | [Screenshot][carlworld-beamer-slide-theme-screenshot] | Carl Compliant Beamer slide theme. |
+| [intridea] | [Screenshot][intridea-screenshot] | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
-| [Keynote-esque] | [Keynote-esque-pdf] | A theme simulating Apple's Keynote presentations. |
+| [Keynote-esque] | [PDF][Keynote-esque-pdf] | A theme simulating Apple's Keynote presentations. |
 | [Subdued] | [Screenshot][Subdued-pdf] | A subdued, stylish beamer template by Cameron Bracken |
 | [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen |
 | [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
@@ -69,6 +69,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Kyoto]: https://github.com/uwabami/beamerthemeKyoto
 [Kyoto-pdf]: https://github.com/uwabami/beamerthemeKyoto/raw/master/examples/sample.pdf
 [Lleida]: https://github.com/pmatos/beamerthemeLleida
+[Lleida-screenshot]: http://latex.simon04.net/img/lleida.png
 [Sybila]: https://github.com/sybila/beamer-theme
 [Sybila-pdf]: https://github.com/sybila/beamer-theme/raw/master/example/example.pdf
 [bunsen]: https://github.com/drbunsen/drbunsen-beamer
@@ -79,10 +80,13 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [LSE]: https://github.com/christophergandrud/LSE-Beamer-Theme
 [LSE-pdf]: https://github.com/christophergandrud/LSE-Beamer-Theme/raw/master/Example.pdf
 [ZBH]: https://github.com/satta/zbh-beamer-theme
+[ZBH-screenshot]: http://latex.simon04.net/img/zbh.jpg
 [TU-BS]: https://github.com/ValiValpas/LaTeX-beamer-TU-BS-corporate-design-theme
 [TU-BS-pdf]: https://github.com/ValiValpas/LaTeX-beamer-TU-BS-corporate-design-theme/raw/master/title.pdf
 [carlworld-beamer-slide-theme]: https://github.com/rob-p/carlworld-beamer-slide-theme
+[carlworld-beamer-slide-theme-screenshot]: http://latex.simon04.net/img/carlworld.png
 [intridea]: https://github.com/doitian/intridea-beamer-theme
+[intridea-screenshot]: http://latex.simon04.net/img/intridea.png
 [HongKong]: https://github.com/quxiaofeng/PolyU_beamer_theme
 [HongKong-pdf]: https://github.com/quxiaofeng/PolyU_beamer_theme/raw/master/example/example.pdf
 [Keynote-esque]: http://www.shawnlankton.com/2008/02/beamer-and-latex-with-keynote-theme/
@@ -97,7 +101,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [HSMA]: http://latex.simon04.net/hsma_theme.tar.bz2
 [HSMA-screenshot]: http://latex.simon04.net/img/hsma.png
 [Bjeldbak]: https://github.com/fapper/beamertheme-bjeldbak
-[Bjeldbak-screenshot]: https://github.com/fapper/beamertheme-bjeldbak/blob/master/beamerthemebjeldbak3.png
+[Bjeldbak-screenshot]: https://raw.githubusercontent.com/martinbmadsen/beamertheme-bjeldbak/master/beamerthemebjeldbak3.png
 [Zurich]: https://github.com/ppletscher/beamerthemezurich
 [Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
 [mtheme]: https://github.com/matze/mtheme
