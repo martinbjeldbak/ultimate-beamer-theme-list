@@ -63,6 +63,11 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [kuleuven] | [PDF][kuleuven-pdf] | A theme for KU Leuven, by Roland Pastorino. |
 | [ruhuisstijl] | [PDF][ruhuisstijl-pdf] | A theme which mimics the corporate and departemental style for the Radboud University powerpoint presentations. Created by Louis Onrust. |
 | [INRA] | [Screenshot][INRA-screenshot] | A theme reproducing the new corporate style of INRA, by François Guillaume. |
+| [Bredele] | [PDF][Bredele-pdf] | A theme using the colors of Framasoft, with a few boxes and tables. Created by Christophe Masutti. |
+| [nv] | [Screenshot][nv-screenshot] | A funky theme inspired by some nvidia slides (resource expansive though). Created by Serge "sans Paille" Guelton. |
+| [ampang] | [Screenshot][ampang-screenshot] | A theme which uses Ubuntu fonts, by Muhammad Najmi Ahmad Zabidi. |
+| [BlackBoard][kmbeamer] | [PDF][BlackBoard-pdf] | A theme mimicking a blackboard, by Kazuki Maeda. |
+| [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
 
 
 
@@ -184,3 +189,12 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [ruhuisstijl-pdf]: https://github.com/naiaden/presentations/raw/master/ruhuisstijl/distributed/example.pdf
 [INRA]: https://forge-dga.jouy.inra.fr/projects/inra_beamer_theme
 [INRA-screenshot]: https://genomeek.files.wordpress.com/2013/05/inrabeamer.png
+[Bredele]: https://github.com/framatophe/BredeleDiapo
+[Bredele-pdf]: https://github.com/framatophe/BredeleDiapo/raw/master/main.pdf
+[nv]: http://serge.liyun.free.fr/serge/projects.html
+[nv-screenshot]: http://serge.liyun.free.fr/serge/sources/beamer_demo-1.png
+[ampang]: https://github.com/raden/beamer-ampang
+[ampang-screenshot]: https://github.com/raden/beamer-ampang/raw/master/ampangcolor.png
+[kmbeamer]: https://github.com/kmaed/kmbeamer/
+[BlackBoard-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_Blackboard.pdf
+[DarkConsole-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_DarkConsole.pdf
