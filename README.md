@@ -68,7 +68,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [ampang] | [Screenshot][ampang-screenshot] | A theme which uses Ubuntu fonts, by Muhammad Najmi Ahmad Zabidi. |
 | [BlackBoard][kmbeamer] | [PDF][BlackBoard-pdf] | A theme mimicking a blackboard, by Kazuki Maeda. |
 | [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
-
+| [s4ndm4n] | [PDF][s4ndm4n-pdf] | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel. |
 
 
 
@@ -198,3 +198,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [kmbeamer]: https://github.com/kmaed/kmbeamer/
 [BlackBoard-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_Blackboard.pdf
 [DarkConsole-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_DarkConsole.pdf
+[s4ndm4n]: http://andreasruempel.de/blog/2015-09-16-darkbeamer/
+[s4ndm4n-pdf]: http://andreasruempel.de/blog/2015-09-16-darkbeamer/s4ndm4n-example.pdf
