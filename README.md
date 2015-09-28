@@ -137,7 +137,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Zurich]: https://github.com/ppletscher/beamerthemezurich
 [Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
 [mtheme]: https://github.com/matze/mtheme
-[mtheme-pdf]: https://github.com/matze/mtheme/raw/master/demo.pdf
+[mtheme-pdf]: https://github.com/matze/mtheme/blob/master/demo/demo.pdf
 [Amsterdam]: http://latex.simon04.net/beamerthemeAmsterdam.sty
 [Amsterdam-screenshot]: http://latex.simon04.net/img/amsterdam.jpg
 [Frederiksberg]: http://www.matdat.life.ku.dk/LaTeX/Frederiksberg/
