@@ -58,7 +58,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [simple] | [PDF][simple-pdf] | A minimalist theme with a watermark in the background, by Facundo Muñoz. |
 | [brown] |  | A theme for Brown University, by Andreas Kloeckner. |
 | [mit] |  | A theme for MIT based on brown, by Justin Riley. |
-| [sthlm] | [PDF][sthlm-pdf] | A theme heavily based on HSRM but with a slightly different design, the ability to compile with pdfLaTeX, no proprietary fonts required, and of course lots of fun colors packed in. Created by Mark Hendry Olson. |
+| [sthlm] | [PDF][sthlm-pdf] | A theme heavily based on HSRM but with a slightly different design, the ability to compile with pdfLaTeX and no proprietary fonts required. Created by Mark Olson. |
 | [rured] | [PDF][rured-pdf] | An unofficial theme with the Radboud University colours, by Louis Onrust. |
 | [kuleuven] | [PDF][kuleuven-pdf] | A theme for KU Leuven, by Roland Pastorino. |
 | [ruhuisstijl] | [PDF][ruhuisstijl-pdf] | A theme which mimics the corporate and departemental style for the Radboud University powerpoint presentations. Created by Louis Onrust. |
@@ -180,8 +180,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [simple-pdf]: https://github.com/famuvie/beamerthemesimple/raw/master/demo.pdf
 [brown]: http://git.tiker.net/brown-beamer.git
 [mit]: https://github.com/jtriley/mit-beamer
-[sthlm]: http://hendryolson.com/resources/resources.html#stockholmbeamertheme
-[sthlm-pdf]: https://dl.dropboxusercontent.com/s/uc8s6d4wjuwdaz4/20130731-093333-rs2.2B-TemplatesthlmBeamerTheme.pdf?dl=0
+[sthlm]: https://github.com/markolsonse/sthlmBeamerTheme
+[sthlm-pdf]: https://github.com/markolsonse/sthlmBeamerTheme/raw/master/20150731-081156-rs2.2B-sthlmBeamerTemplate.pdf
 [rured]: https://github.com/naiaden/presentations/tree/master/rured
 [rured-pdf]: https://github.com/naiaden/presentations/raw/master/rured/example.pdf
 [kuleuven]: https://github.com/naiaden/presentations/tree/master/Leuven-9monthsprogress
