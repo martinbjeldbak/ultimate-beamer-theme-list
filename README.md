@@ -164,10 +164,10 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Flip-pdf]: http://www.physics.uci.edu/~tanedo/files/code/FlipBeamerTemplate.pdf
 [Ithaca]: http://www.math.cornell.edu/~gomez/Research.html
 [Ithaca-pdf]: http://www.math.cornell.edu/~gomez/Files/PDF/Ithacatemplate.pdf
-[Econ1]: http://www.rohitpatelecon.com/beamer-themes
-[Econ1-pdf]: https://dl.dropboxusercontent.com/u/10976681/Templates/Econ1.pdf
-[Northwestern]: http://www.rohitpatelecon.com/beamer-themes/northwestern-beamer-theme
-[Kellogg]: http://www.rohitpatelecon.com/beamer-themes/kellogg-beamer-theme
+[Econ1]: http://www.rohit-patel.com/beamer-themes
+[Econ1-pdf]: https://www.dropbox.com/s/paapp9sev9rdl92/Econ1.pdf?dl=1
+[Northwestern]: http://www.rohit-patel.com/beamer-themes/northwestern-beamer-theme
+[Kellogg]: http://www.rohit-patel.com/beamer-themes/kellogg-beamer-theme
 [Gelugor]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Gelugor
 [Gelugor-pdf]: https://bytebucket.org/liantze/beamer-gelugor/raw/1abaa164be3db398e2d0a485e1e74d461ddc2af3/example.pdf
 [Cyberjaya]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Cyberjaya
