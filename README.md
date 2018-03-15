@@ -70,9 +70,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
 | [s4ndm4n] | [PDF][s4ndm4n-pdf] | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel. |
 | [Saarland] | [PDF][Saarland-pdf] | An unofficial beamer theme for Saarland University, by Kailash Budhathoki. |
-| [UGA] | [uga-beamer-theme][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson 
-| [FSU] | [fsu-beamer-theme][uga-beamer-theme-pdf] | An unofficial beamer theme for Florida State University, by Robert Robinson
-| [FIT] | [fit-beamer-theme][uga-beamer-theme-pdf] | An unofficial beamer theme for Fashion Institute of technology, by Robert Robinson
+| [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson 
+| [fsu-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for Florida State University, by Robert Robinson
+| [fit-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for Fashion Institute of technology, by Robert Robinson
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
