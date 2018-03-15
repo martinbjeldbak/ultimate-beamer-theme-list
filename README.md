@@ -206,4 +206,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Saarland-pdf]: https://github.com/kailashbuki/beamerthemesaarland/blob/master/slides.pdf
 [TAU]: https://github.com/alexlib/beamer_template_tau
 [TAU-pdf]: https://github.com/alexlib/beamer_template_tau/blob/master/example_slides.pdf
-
+[uga-beamer-theme]: https://github.com/llamabr/uga-beamer-theme
+[uga-beamer-theme-pdf]: https://github.com/llamabr/uga-beamer-theme/blob/master/uga-beamer-theme.pdf
+[fsu-beamer-theme]: https://github.com/llamabr/fsu-beamer-theme
+[fsu-beamer-theme-pdf]: https://github.com/llamabr/fsu-beamer-theme/blob/master/fsu-beamer-theme.pdf
+[fit-beamer-theme]: https://github.com/llamabr/fit-beamer-theme
+[fit-beamer-theme-pdf]: https://github.com/llamabr/fit-beamer-theme/blob/master/fit-beamer-theme.pdf
