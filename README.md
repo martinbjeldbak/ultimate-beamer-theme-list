@@ -70,8 +70,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
 | [s4ndm4n] | [PDF][s4ndm4n-pdf] | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel. |
 | [Saarland] | [PDF][Saarland-pdf] | An unofficial beamer theme for Saarland University, by Kailash Budhathoki. |
-
-
+| [UGA] | [uga-beamer-theme][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson 
+| [FSU] | [fsu-beamer-theme][uga-beamer-theme-pdf] | An unofficial beamer theme for Florida State University, by Robert Robinson
+| [FIT] | [fit-beamer-theme][uga-beamer-theme-pdf] | An unofficial beamer theme for Fashion Institute of technology, by Robert Robinson
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -203,4 +204,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [s4ndm4n-pdf]: http://andreasruempel.de/blog/2015-09-16-darkbeamer/s4ndm4n-example.pdf
 [Saarland]: https://github.com/kailashbuki/beamerthemesaarland
 [Saarland-pdf]: https://github.com/kailashbuki/beamerthemesaarland/blob/master/slides.pdf
-
+[uga-beamer-theme]: https://github.com/brock6/uga-beamer-theme
+[uga-beamer-theme-pdf]: https://github.com/brock6/uga-beamer-theme/blob/master/uga-beamer-theme.pdf
+[fsu-beamer-theme]: https://github.com/brock6/fsu-beamer-theme
+[fsu-beamer-theme-pdf]: https://github.com/brock6/fsu-beamer-theme/blob/master/fsu-beamer-theme.pdf
+[fit-beamer-theme]: https://github.com/brock6/fit-beamer-theme
+[fit-beamer-theme-pdf]: https://github.com/brock6/fit-beamer-theme/blob/master/fit-beamer-theme.pdf
