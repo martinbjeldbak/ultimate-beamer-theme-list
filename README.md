@@ -203,4 +203,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [s4ndm4n-pdf]: http://andreasruempel.de/blog/2015-09-16-darkbeamer/s4ndm4n-example.pdf
 [Saarland]: https://github.com/kailashbuki/beamerthemesaarland
 [Saarland-pdf]: https://github.com/kailashbuki/beamerthemesaarland/blob/master/slides.pdf
-
+[uga-beamer-theme]: https://github.com/llamabr/uga-beamer-theme
+[uga-beamer-theme-pdf]: https://github.com/llamabr/uga-beamer-theme/blob/master/uga-beamer-theme.pdf
+[fsu-beamer-theme]: https://github.com/llamabr/fsu-beamer-theme
+[fsu-beamer-theme-pdf]: https://github.com/llamabr/fsu-beamer-theme/blob/master/fsu-beamer-theme.pdf
+[fit-beamer-theme]: https://github.com/llamabr/fit-beamer-theme
+[fit-beamer-theme-pdf]: https://github.com/llamabr/fit-beamer-theme/blob/master/fit-beamer-theme.pdf
