@@ -71,7 +71,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [s4ndm4n] | [PDF][s4ndm4n-pdf] | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel. |
 | [Saarland] | [PDF][Saarland-pdf] | An unofficial beamer theme for Saarland University, by Kailash Budhathoki. |
 | [TAU] | [PDF][TAU-pdf] | An unofficial beamer theme for Tel Aviv University, by Alex Liberzon. |
-
+| [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson
+| [fsu-beamer-theme] | [PDF][fsu-beamer-theme-pdf] | An unofficial beamer theme for Floridal State University, by Robert Robinson
+| [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson
 
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
