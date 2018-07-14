@@ -74,6 +74,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson
 | [fsu-beamer-theme] | [PDF][fsu-beamer-theme-pdf] | An unofficial beamer theme for Floridal State University, by Robert Robinson
 | [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson
+| [usyd-beamer-theme] | [Releases][usyd-beamer-theme-release] | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay
 
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
@@ -214,3 +215,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [fsu-beamer-theme-pdf]: https://github.com/llamabr/fsu-beamer-theme/blob/master/fsu-beamer-theme.pdf
 [fit-beamer-theme]: https://github.com/llamabr/fit-beamer-theme
 [fit-beamer-theme-pdf]: https://github.com/llamabr/fit-beamer-theme/blob/master/fit-beamer-theme.pdf
+[usyd-beamer-theme]: https://github.com/malramsay64/usyd-beamer-theme
+[usyd-beamer-theme-release]: https://github.com/malramsay64/usyd-beamer-theme/releases/latest
