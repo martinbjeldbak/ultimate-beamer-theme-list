@@ -74,7 +74,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson
 | [fsu-beamer-theme] | [PDF][fsu-beamer-theme-pdf] | An unofficial beamer theme for Floridal State University, by Robert Robinson
 | [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson
-| [UT-LaTeX-Beamer-Theme] | [PDF][ut-latex-beamer-theme] | Beamer theme using the house style of the University of Twente, by Jasper Goseling
+| [UT-LaTeX-Beamer-Theme] | [PDF][ut-latex-beamer-theme-pdf] | Beamer theme using the house style of the University of Twente, by Jasper Goseling
 
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
@@ -216,4 +216,4 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [fit-beamer-theme]: https://github.com/llamabr/fit-beamer-theme
 [fit-beamer-theme-pdf]: https://github.com/llamabr/fit-beamer-theme/blob/master/fit-beamer-theme.pdf
 [UT-LaTeX-Beamer-Theme]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/
-[ut-latex-beamer-theme]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/res/manual.pdf
+[ut-latex-beamer-theme-pdf]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/res/manual.pdf
