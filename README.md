@@ -74,6 +74,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson
 | [fsu-beamer-theme] | [PDF][fsu-beamer-theme-pdf] | An unofficial beamer theme for Floridal State University, by Robert Robinson
 | [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson
+| [usyd-beamer-theme] | [Releases][usyd-beamer-theme-release] | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay. |
+| [focus] | [PDF][focus-pdf] | A minimalist presentation theme for LaTeX Beamer. |
 | [UT-LaTeX-Beamer-Theme] | [PDF][ut-latex-beamer-theme-pdf] | Beamer theme using the house style of the University of Twente, by Jasper Goseling
 
 
@@ -215,5 +217,10 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [fsu-beamer-theme-pdf]: https://github.com/llamabr/fsu-beamer-theme/blob/master/fsu-beamer-theme.pdf
 [fit-beamer-theme]: https://github.com/llamabr/fit-beamer-theme
 [fit-beamer-theme-pdf]: https://github.com/llamabr/fit-beamer-theme/blob/master/fit-beamer-theme.pdf
+[usyd-beamer-theme]: https://github.com/malramsay64/usyd-beamer-theme
+[usyd-beamer-theme-release]: https://github.com/malramsay64/usyd-beamer-theme/releases/latest
+[focus]: https://github.com/elauksap/focus-beamertheme
+[focus-pdf]: https://github.com/elauksap/focus-beamertheme/blob/master/demo.pdf
 [UT-LaTeX-Beamer-Theme]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/
 [ut-latex-beamer-theme-pdf]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/res/manual.pdf
+
