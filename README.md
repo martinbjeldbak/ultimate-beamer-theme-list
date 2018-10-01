@@ -224,4 +224,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [focus-pdf]: https://github.com/elauksap/focus-beamertheme/blob/master/demo.pdf
 [UT-LaTeX-Beamer-Theme]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/
 [ut-latex-beamer-theme-pdf]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/res/manual.pdf
+[beamerthemeuconn]: https://github.com/corybrunson/beamerthemeuconn
 [beamerthemeuconn-pdf]: https://github.com/corybrunson/beamerthemeuconn/blob/master/uconn-theme-example.pdf
