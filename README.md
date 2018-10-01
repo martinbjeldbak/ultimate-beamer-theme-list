@@ -77,6 +77,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [usyd-beamer-theme] | [Releases][usyd-beamer-theme-release] | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay. |
 | [focus] | [PDF][focus-pdf] | A minimalist presentation theme for LaTeX Beamer. |
 | [UT-LaTeX-Beamer-Theme] | [PDF][ut-latex-beamer-theme-pdf] | Beamer theme using the house style of the University of Twente, by Jasper Goseling
+| [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson
 
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
@@ -223,4 +224,4 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [focus-pdf]: https://github.com/elauksap/focus-beamertheme/blob/master/demo.pdf
 [UT-LaTeX-Beamer-Theme]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/
 [ut-latex-beamer-theme-pdf]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/res/manual.pdf
-
+[beamerthemeuconn-pdf]: https://github.com/corybrunson/beamerthemeuconn/blob/master/uconn-theme-example.pdf
