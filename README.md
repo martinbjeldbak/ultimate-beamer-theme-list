@@ -88,7 +88,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [CEA]: http://fabrice.gadaud.org/beamer-theme-cea.tar.gz
 [CEA-pdf]: http://fabrice.gadaud.org/beamer-cea-example.pdf
 [diepen style]: http://www.guidodiepen.nl/2009/04/latex-beamer-diepen-style/
-[diepen style-screenshot]: http://www.guidodiepen.nl/wp-content/uploads/2009/04/example-1.png
+[diepen style-screenshot]: https://www.guidodiepen.nl/content/images/2009/04/example-1.png
 [tue-pdfscreen]: http://www.win.tue.nl/latex/windows.html
 [tue-pdfscreen-pdf]: http://www.win.tue.nl/latex/slides.pdf
 [IAS themes]: http://fransoliehoek.net/index.php?fuseaction=var.beamer
