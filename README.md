@@ -79,7 +79,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [UT-LaTeX-Beamer-Theme] | [PDF][ut-latex-beamer-theme-pdf] | Beamer theme using the house style of the University of Twente, by Jasper Goseling
 | [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson
 | [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace.
-
+| [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -229,3 +229,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [beamerthemeuconn-pdf]: https://github.com/corybrunson/beamerthemeuconn/blob/master/uconn-theme-example.pdf
 [unina-beamer]: https://github.com/luistar/unina-beamer
 [unina-beamer-pdf]: https://github.com/luistar/unina-beamer/blob/master/slides.pdf
+[pure-minimalistic]: https://github.com/kai-tub/latex_beamer_pure_minimalistic
+[pure-minimalistic-pdf]: https://github.com/kai-tub/latex_beamer_pure_minimalistic/blob/master/pureminimalistic-example.pdf
