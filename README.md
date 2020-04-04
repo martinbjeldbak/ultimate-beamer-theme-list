@@ -230,4 +230,4 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [unina-beamer]: https://github.com/luistar/unina-beamer
 [unina-beamer-pdf]: https://github.com/luistar/unina-beamer/blob/master/slides.pdf
 [pure-minimalistic]: https://github.com/kai-tub/latex_beamer_pure_minimalistic
-[pure-minimalistic-pdf]: https://github.com/kai-tub/latex_beamer_pure_minimalistic/blob/master/pureminimalistic-example.pdf
+[pure-minimalistic-pdf]: https://github.com/kai-tub/latex_beamer_pure_minimalistic/blob/master/demo.pdf
