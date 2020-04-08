@@ -80,6 +80,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson
 | [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace.
 | [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen
+| [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTex beamer presentation theme. |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -231,3 +232,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [unina-beamer-pdf]: https://github.com/luistar/unina-beamer/blob/master/slides.pdf
 [pure-minimalistic]: https://github.com/kai-tub/latex_beamer_pure_minimalistic
 [pure-minimalistic-pdf]: https://github.com/kai-tub/latex_beamer_pure_minimalistic/blob/master/demo.pdf
+[auriga]: https://github.com/anishathalye/auriga
+[auriga-pdf]: https://raw.githubusercontent.com/anishathalye/auriga/assets/auriga.pdf
