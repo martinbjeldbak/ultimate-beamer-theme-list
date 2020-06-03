@@ -230,7 +230,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [beamerthemeuconn-pdf]: https://github.com/corybrunson/beamerthemeuconn/blob/master/uconn-theme-example.pdf
 [unina-beamer]: https://github.com/luistar/unina-beamer
 [unina-beamer-pdf]: https://github.com/luistar/unina-beamer/blob/master/slides.pdf
-[pure-minimalistic]: https://github.com/kai-tub/latex_beamer_pure_minimalistic
-[pure-minimalistic-pdf]: https://github.com/kai-tub/latex_beamer_pure_minimalistic/blob/master/demo.pdf
+[pure-minimalistic]: https://github.com/kai-tub/latex-beamer-pure-minimalistic
+[pure-minimalistic-pdf]: https://github.com/kai-tub/latex-beamer-pure-minimalistic/wiki/beamertheme-pure-minimalistic-demo.pdf
 [auriga]: https://github.com/anishathalye/auriga
 [auriga-pdf]: https://raw.githubusercontent.com/anishathalye/auriga/assets/auriga.pdf
