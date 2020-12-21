@@ -21,7 +21,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Kyoto] | [PDF][Kyoto-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
 | [Lleida] | [Screenshot][Lleida-screenshot] | A theme created by Paulo Jorge Matos. |
 | [Sybila] | [PDF][Sybila-pdf] | A theme created by Sybila. |
-| [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. See the related blog post here [bunsen-web] |
+| [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. |
 | [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
 | [ZBH] | [Screenshot][ZBH-screenshot] | Unofficial Beamer theme for the ZBH of the University of Hamburg.  |
 | [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of TU Braunschweig. |
@@ -114,9 +114,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Lleida-screenshot]: http://latex.simon04.net/img/lleida.png
 [Sybila]: https://github.com/sybila/beamer-theme
 [Sybila-pdf]: https://github.com/sybila/beamer-theme/raw/master/example/example.pdf
-[bunsen]: https://github.com/drbunsen/drbunsen-beamer
+[bunsen]: https://github.com/seth-brown/drbunsen-beamer
 [bunsen-pdf]: https://github.com/drbunsen/drbunsen-beamer/raw/master/bunsen_beamer_example.pdf
-[bunsen-web]: http://www.drbunsen.org/designing-a-beamer-template-theme/
 [UniversiteitGent]: http://pbelmans.wordpress.com/2012/02/09/a-beamer-theme-for-the-university-of-ghent/
 [UniversiteitGent-screenshot]: http://pbelmans.files.wordpress.com/2012/02/slide.png?w=994
 [LSE]: https://github.com/christophergandrud/LSE-Beamer-Theme
