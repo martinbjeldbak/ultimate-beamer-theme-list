@@ -81,6 +81,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace.
 | [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen
 | [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTex beamer presentation theme. |
+| [Arguelles] | [PDF][Arguelles-pdf] | Argüelles is a clean, typographic theme featuring the Alegreya font family |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -233,3 +234,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [pure-minimalistic-pdf]: https://github.com/kai-tub/latex-beamer-pure-minimalistic/wiki/beamertheme-pure-minimalistic-demo.pdf
 [auriga]: https://github.com/anishathalye/auriga
 [auriga-pdf]: https://raw.githubusercontent.com/anishathalye/auriga/assets/auriga.pdf
+[Arguelles]: https://github.com/piazzai/arguelles
+[Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo.pdf
