@@ -36,7 +36,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [BeamerPorts] | Various on project page | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer |
 | [HSMA] | [Screenshot][HSMA-screenshot] | A theme complying with the corporate design of Hochschule Mannheim - University of Applied Science, Germany by Steve Hegenbart. |
 | [Zurich] | [Screenshot][Zurich-screenshot] | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
-| [mtheme] | [PDF][mtheme-pdf] | The mtheme is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
+| [metropolis] | [PDF][metropolis-pdf] | The metropolise theme (previously *m* or *mtheme*) is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
 | [Amsterdam] | [Screenshot][Amsterdam-screenshot] | This theme is called "Amsterdam" and has been created by Rogier Koppejan. It's based on Dresden but with custom colors. |
 | [Frederiksberg] | [PDF][Frederiksberg-pdf] | Frederiksberg beamer theme from the university of Copenhagen. Screenshots of different looks are available [here][Frederiksberg-examples-gallery]. |
 | [UMBC] | [Screenshot][UMBC-screenshot] | A couple of themes made by Rouben Rostamian for UMBC University. |
@@ -146,8 +146,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Bjeldbak-screenshot]: https://raw.githubusercontent.com/martinbmadsen/beamertheme-bjeldbak/master/beamerthemebjeldbak3.png
 [Zurich]: https://github.com/ppletscher/beamerthemezurich
 [Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
-[mtheme]: https://github.com/matze/mtheme
-[mtheme-pdf]: https://github.com/matze/mtheme/blob/master/demo/demo.pdf
+[metropolis]: https://github.com/matze/mtheme
+[metropolis-pdf]: https://mirror.aarnet.edu.au/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/metropolis/demo/demo.pdf
 [Amsterdam]: http://latex.simon04.net/beamerthemeAmsterdam.sty
 [Amsterdam-screenshot]: http://latex.simon04.net/img/amsterdam.jpg
 [Frederiksberg]: http://www.matdat.life.ku.dk/LaTeX/Frederiksberg/
