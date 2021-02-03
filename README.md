@@ -29,7 +29,7 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
 | [Keynote-esque] | [PDF][Keynote-esque-pdf] | A theme simulating Apple's Keynote presentations. |
 | [Subdued] | [Screenshot][Subdued-pdf] | A subdued, stylish beamer template by Cameron Bracken |
-| [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen |
+| [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen (me!) |
 | [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
 | [GC3] | [PDF][GC3-pdf] | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri. |
 | [BeamerPorts] | Various on project page | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer |
@@ -137,8 +137,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [BeamerPorts]: https://bitbucket.org/marczellm/beamerports/src
 [HSMA]: http://latex.simon04.net/hsma_theme.tar.bz2
 [HSMA-screenshot]: http://latex.simon04.net/img/hsma.png
-[Bjeldbak]: https://github.com/fapper/beamertheme-bjeldbak
-[Bjeldbak-screenshot]: https://raw.githubusercontent.com/martinbmadsen/beamertheme-bjeldbak/master/beamerthemebjeldbak3.png
+[Bjeldbak]: https://github.com/martinbjeldbak/beamertheme-bjeldbak
+[Bjeldbak-screenshot]: https://raw.githubusercontent.com/martinbjeldbak/beamertheme-bjeldbak/master/screenshots/beamerthemebjeldbak4.png
 [Zurich]: https://github.com/ppletscher/beamerthemezurich
 [Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
 [metropolis]: https://github.com/matze/mtheme
