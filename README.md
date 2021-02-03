@@ -93,8 +93,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [diepen style-screenshot]: https://www.guidodiepen.nl/content/images/2009/04/example-1.png
 [tue-pdfscreen]: http://www.win.tue.nl/latex/windows.html
 [tue-pdfscreen-pdf]: http://www.win.tue.nl/latex/slides.pdf
-[IAS themes]: http://fransoliehoek.net/index.php?fuseaction=var.beamer
-[IAS themes-screenshot]: http://fransoliehoek.net/var/images//IAS_sidebarNav.jpg
+[IAS themes]: http://people.csail.mit.edu/fao/index.php?fuseaction=var.beamer
+[IAS themes-screenshot]: http://people.csail.mit.edu/fao/var/images//IAS_sidebar.jpg
 [KDE Oxygen-style]: http://www.kde.org/kdeslides/
 [KDE Oxygen-style-pdf]: http://www.kde.org/kdeslides/templates/example-talk.pdf
 [Stockton]: http://www1.pacific.edu/~smerz/Pacific_Beamer_Theme.html
