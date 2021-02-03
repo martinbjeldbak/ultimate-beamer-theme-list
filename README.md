@@ -128,8 +128,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [HongKong-pdf]: https://github.com/quxiaofeng/PolyU_beamer_theme/raw/master/example/example.pdf
 [Keynote-esque]: http://www.shawnlankton.com/2008/02/beamer-and-latex-with-keynote-theme/
 [Keynote-esque-pdf]: http://www.shawnlankton.com/wp-content/uploads/files/latex/beamer_demo.pdf
-[Subdued]: http://cameron.bracken.bz/beamer-template
-[Subdued-pdf]: http://cameron.bracken.bz/wp-content/images/beamer-template-screenshot2.png
+[Subdued]: https://www.overleaf.com/latex/templates/beamer-template-by-cameron-bracken/gmgmqwprthxb
+[Subdued-pdf]: https://user-images.githubusercontent.com/823316/106727960-baf8fd80-6657-11eb-999f-a6bea9f9eba1.jpeg
 [HSRM]: https://github.com/hsrmbeamertheme/hsrmbeamertheme
 [HSRM-pdf]: https://github.com/hsrmbeamertheme/hsrmbeamertheme/raw/master/hsrm-beamer-demo.pdf
 [GC3]: https://github.com/gc3-uzh-ch/beamer-theme-gc3
