@@ -23,7 +23,7 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 | [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. |
 | [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
 | [ZBH] | [Screenshot][ZBH-screenshot] | Unofficial Beamer theme for the ZBH of the University of Hamburg.  |
-| [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of TU Braunschweig. |
+| [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of Technische Universität Braunschweig |
 | [carlworld-beamer-slide-theme] | [Screenshot][carlworld-beamer-slide-theme-screenshot] | Carl Compliant Beamer slide theme. |
 | [intridea] | [Screenshot][intridea-screenshot] | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
@@ -118,8 +118,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [LSE-pdf]: https://github.com/christophergandrud/LSE-Beamer-Theme/raw/master/Example.pdf
 [ZBH]: https://github.com/satta/zbh-beamer-theme
 [ZBH-screenshot]: http://latex.simon04.net/img/zbh.jpg
-[TU-BS]: https://github.com/ValiValpas/LaTeX-beamer-TU-BS-corporate-design-theme
-[TU-BS-pdf]: https://github.com/ValiValpas/LaTeX-beamer-TU-BS-corporate-design-theme/raw/master/title.pdf
+[TU-BS]: https://www.tu-braunschweig.de/latex
+[TU-BS-pdf]: https://www.tu-braunschweig.de/fileadmin/_processed_/6/3/csm_beamer_example-page1_1d7bcef9b2.png
 [carlworld-beamer-slide-theme]: https://github.com/rob-p/carlworld-beamer-slide-theme
 [carlworld-beamer-slide-theme-screenshot]: http://latex.simon04.net/img/carlworld.png
 [intridea]: https://github.com/doitian/intridea-beamer-theme
