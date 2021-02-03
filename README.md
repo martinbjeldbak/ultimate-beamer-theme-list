@@ -45,7 +45,7 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 | [Execushares] | [PDF][Execushares-pdf] | A minimalist and modern Beamer theme by Kenton Hamaluik. |
 | [TUGraz] | [Screenshot][TUGraz-screenshot] | A theme using the cooperate identity of the TU Graz, by Martin Weiglhofer. |
 | [aecio] | [PDF][aecio-pdf] | A super simple and clean latex beamer theme, by Aécio Santos. |
-| [supelec] | | A beamer theme for Supélec, by Frédéric Boulanger. |
+| [supelec] | [PDF][supelec-pdf] | A beamer theme for Supélec, by Frédéric Boulanger. |
 | [CWRU] | | A basic Beamer theme for Case Western Reserve University, inspired by Montpellier and created by Matt Ruffalo. |
 | [Flip] | [PDF][Flip-pdf] | A theme by Philip "Flip" Tanedo. |
 | [Ithaca] | [PDF][Ithaca-pdf] | A theme based on Flip, created by Raul Gomez. |
@@ -161,7 +161,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [TUGraz-screenshot]: http://www.ist.tugraz.at/staff/weiglhofer/misc/tugbeamer/img/presentation_boxes.png
 [aecio]: https://github.com/aecio/beamer-theme
 [aecio-pdf]: https://github.com/aecio/beamer-theme/raw/master/beamer-demo.pdf
-[supelec]: http://wwwdi.supelec.fr/fb/Software/
+[supelec]: https://wdi.centralesupelec.fr/boulanger/Software/HomePage-En
+[supelec-pdf]: https://wdi.centralesupelec.fr/boulanger/download/LaTeX/beamersupelec/doc/splcbeam/beamer_supelec.pdf
 [CWRU]: https://github.com/mruffalo/beamer-theme-cwru
 [Flip]: http://www.physics.uci.edu/~tanedo/docs.html
 [Flip-pdf]: http://www.physics.uci.edu/~tanedo/files/code/FlipBeamerTemplate.pdf
