@@ -166,8 +166,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [CWRU]: https://github.com/mruffalo/beamer-theme-cwru
 [Flip]: http://www.physics.uci.edu/~tanedo/docs.html
 [Flip-pdf]: http://www.physics.uci.edu/~tanedo/files/code/FlipBeamerTemplate.pdf
-[Ithaca]: http://www.math.cornell.edu/~gomez/Research.html
-[Ithaca-pdf]: http://www.math.cornell.edu/~gomez/Files/PDF/Ithacatemplate.pdf
+[Ithaca]: https://pi.math.cornell.edu/~gomez/Research.html
+[Ithaca-pdf]: https://pi.math.cornell.edu/~gomez/Files/PDF/Ithacatemplate.pdf
 [Econ1]: http://www.rohit-patel.com/beamer-themes
 [Econ1-pdf]: https://www.dropbox.com/s/paapp9sev9rdl92/Econ1.pdf?dl=1
 [Northwestern]: http://www.rohit-patel.com/beamer-themes/northwestern-beamer-theme
