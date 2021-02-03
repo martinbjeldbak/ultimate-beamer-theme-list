@@ -108,8 +108,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [kansai-debian-pdf]: https://github.com/uwabami/beamerthemeKansaiDebianMeeting/raw/master/README.pdf
 [Lleida]: https://github.com/pmatos/beamerthemeLleida
 [Lleida-screenshot]: http://latex.simon04.net/img/lleida.png
-[Sybila]: https://github.com/sybila/beamer-theme
-[Sybila-pdf]: https://github.com/sybila/beamer-theme/raw/master/example/example.pdf
+[Sybila]: https://github.com/sybila/presentation-template
+[Sybila-pdf]: https://github.com/sybila/presentation-template/raw/master/presentation.pdf
 [bunsen]: https://github.com/seth-brown/drbunsen-beamer
 [bunsen-pdf]: https://github.com/drbunsen/drbunsen-beamer/raw/master/bunsen_beamer_example.pdf
 [UniversiteitGent]: http://pbelmans.wordpress.com/2012/02/09/a-beamer-theme-for-the-university-of-ghent/
