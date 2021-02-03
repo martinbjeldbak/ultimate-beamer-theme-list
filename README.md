@@ -194,8 +194,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [ruhuisstijl-pdf]: https://github.com/naiaden/presentations/raw/master/ruhuisstijl/distributed/example.pdf
 [INRA]: https://forge-dga.jouy.inra.fr/projects/inra_beamer_theme
 [INRA-screenshot]: https://genomeek.files.wordpress.com/2013/05/inrabeamer.png
-[Bredele]: https://github.com/framatophe/BredeleDiapo
-[Bredele-pdf]: https://github.com/framatophe/BredeleDiapo/raw/master/main.pdf
+[Bredele]: https://framagit.org/Framatophe/BredeleDiapo
+[Bredele-pdf]: https://framagit.org/Framatophe/BredeleDiapo/-/raw/master/main.pdf?inline=true
 [nv]: http://serge.liyun.free.fr/serge/projects.html
 [nv-screenshot]: http://serge.liyun.free.fr/serge/sources/beamer_demo-1.png
 [ampang]: https://github.com/raden/beamer-ampang
