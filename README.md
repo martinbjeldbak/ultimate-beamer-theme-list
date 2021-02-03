@@ -17,7 +17,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. |
 | [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
 | [makokal-JUB] | [PDF][makokal-JUB-pdf] | Okal Billy's theme used while at Jacobs University. |
-| [Kyoto] | [PDF][Kyoto-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
+| [kansai-debian] | [PDF][kansai-debian-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
 | [Lleida] | [Screenshot][Lleida-screenshot] | A theme created by Paulo Jorge Matos. |
 | [Sybila] | [PDF][Sybila-pdf] | A theme created by Sybila. |
 | [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. |
@@ -104,8 +104,8 @@ The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. 
 [makokal-ALUF-pdf]: https://github.com/makokal/beamer-themes/raw/master/ALUF/aluf_sample.pdf
 [makokal-JUB]: https://github.com/makokal/beamer-themes
 [makokal-JUB-pdf]: https://github.com/makokal/beamer-themes/raw/master/JUB/jub_sample.pdf
-[Kyoto]: https://github.com/uwabami/beamerthemeKyoto
-[Kyoto-pdf]: https://github.com/uwabami/beamerthemeKyoto/raw/master/examples/sample.pdf
+[kansai-debian]: https://github.com/uwabami/beamerthemeKansaiDebianMeeting
+[kansai-debian-pdf]: https://github.com/uwabami/beamerthemeKansaiDebianMeeting/raw/master/README.pdf
 [Lleida]: https://github.com/pmatos/beamerthemeLleida
 [Lleida-screenshot]: http://latex.simon04.net/img/lleida.png
 [Sybila]: https://github.com/sybila/beamer-theme
