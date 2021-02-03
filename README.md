@@ -95,8 +95,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [IAS themes-screenshot]: http://people.csail.mit.edu/fao/var/images//IAS_sidebar.jpg
 [Torino]: http://blog.barisione.org/2007-09/torino-a-pretty-theme-for-latex-beamer/
 [Torino-screenshot]: http://www.flickr.com/photos/barisione/1401707576/
-[UA]: http://nschloe.blogspot.de/2009/04/ua-beamer-theme_15.html
-[UA-screenshot]: http://1.bp.blogspot.com/-C_zagV2myiM/UCz4DrGDv5I/AAAAAAAAZsk/ASqq6HpJFq8/s1600/beamer-dark.png
+[UA]: https://github.com/nschloe/ua-beamer
+[UA-screenshot]: https://raw.githubusercontent.com/nschloe/ua-beamer/master/doc/manual/figures/dark-page1.png
 [UNL]: http://cse.unl.edu/~cbourke/wdnTest/
 [UNL-pdf]: http://cse.unl.edu/~cbourke/latex/UNLTheme.pdf
 [makokal-ALUF]: https://github.com/makokal/beamer-themes
