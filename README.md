@@ -26,7 +26,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [carlworld-beamer-slide-theme] | [Screenshot][carlworld-beamer-slide-theme-screenshot] | Carl Compliant Beamer slide theme. |
 | [intridea] | [Screenshot][intridea-screenshot] | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
-| [Keynote-esque] | [PDF][Keynote-esque-pdf] | A theme simulating Apple's Keynote presentations. |
 | [Subdued] | [Screenshot][Subdued-pdf] | A subdued, stylish beamer template by Cameron Bracken |
 | [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen (me!) |
 | [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
@@ -126,8 +125,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [intridea-screenshot]: http://latex.simon04.net/img/intridea.png
 [HongKong]: https://github.com/quxiaofeng/PolyU_beamer_theme
 [HongKong-pdf]: https://github.com/quxiaofeng/PolyU_beamer_theme/raw/master/example/example.pdf
-[Keynote-esque]: http://www.shawnlankton.com/2008/02/beamer-and-latex-with-keynote-theme/
-[Keynote-esque-pdf]: http://www.shawnlankton.com/wp-content/uploads/files/latex/beamer_demo.pdf
 [Subdued]: https://www.overleaf.com/latex/templates/beamer-template-by-cameron-bracken/gmgmqwprthxb
 [Subdued-pdf]: https://user-images.githubusercontent.com/823316/106727960-baf8fd80-6657-11eb-999f-a6bea9f9eba1.jpeg
 [HSRM]: https://github.com/hsrmbeamertheme/hsrmbeamertheme
