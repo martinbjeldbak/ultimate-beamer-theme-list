@@ -181,8 +181,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [simple-pdf]: https://github.com/famuvie/beamerthemesimple/raw/master/demo.pdf
 [brown]: http://git.tiker.net/brown-beamer.git
 [mit]: https://github.com/jtriley/mit-beamer
-[sthlm]: https://github.com/markolsonse/sthlmBeamerTheme
-[sthlm-pdf]: https://github.com/markolsonse/sthlmBeamerTheme/raw/master/20150731-081156-rs2.2B-sthlmBeamerTemplate.pdf
+[sthlm]: https://github.com/mholson/sthlmNordBeamerTheme
+[sthlm-pdf]: https://raw.githubusercontent.com/mholson/sthlmNordBeamerTheme/main/20150731-081156-rs2.2B-sthlmBeamerTemplate.pdf
 [rured]: https://github.com/naiaden/presentations/tree/master/rured
 [rured-pdf]: https://github.com/naiaden/presentations/raw/master/rured/example.pdf
 [kuleuven]: https://github.com/naiaden/presentations/tree/master/Leuven-9monthsprogress
