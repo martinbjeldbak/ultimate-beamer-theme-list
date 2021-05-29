@@ -182,7 +182,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [brown]: http://git.tiker.net/brown-beamer.git
 [mit]: https://github.com/jtriley/mit-beamer
 [sthlm]: https://github.com/mholson/sthlmNordBeamerTheme
-[sthlm-pdf]: https://github.com/mholson/sthlmNordBeamerTheme/blob/main/20150731-081156-rs2.2B-sthlmBeamerTemplate.pdf
+[sthlm-pdf]: https://raw.githubusercontent.com/mholson/sthlmNordBeamerTheme/main/20150731-081156-rs2.2B-sthlmBeamerTemplate.pdf
 [rured]: https://github.com/naiaden/presentations/tree/master/rured
 [rured-pdf]: https://github.com/naiaden/presentations/raw/master/rured/example.pdf
 [kuleuven]: https://github.com/naiaden/presentations/tree/master/Leuven-9monthsprogress
