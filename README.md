@@ -80,6 +80,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTex beamer presentation theme. |
 | [Arguelles] | [PDF][Arguelles-pdf] | Argüelles is a clean, typographic theme featuring the Alegreya font family. |
 | [PoliMi] | [PDF][polimi-pdf] | Beamer port of the official Polytechnic University of Milan presentation theme by Pasquale Claudio Africa. |
+| [strathbeamer] | [PDF][strathbeamer-pdf] | Unofficial beamer template following the official branding guidance for University of Strathclyde, by Roberto Metere. |
+| [nclbeamer] | [PDF][nclbeamer-pdf] | Unofficial beamer template following the official branding guidance for Newcastle University, by Roberto Metere. |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -230,3 +232,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo.pdf
 [PoliMi]: https://github.com/elauksap/beamerthemepolimi
 [PoliMi-pdf]: https://github.com/elauksap/beamerthemepolimi/raw/master/demo.pdf
+[strathbeamer]: https://github.com/nitrogl/strathbeamer
+[strathbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example.pdf
+[nclbeamer]: https://github.com/nitrogl/nclbeamer
+[nclbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/nclbeamer/master/examples/ncl-example.pdf
