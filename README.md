@@ -166,8 +166,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Flip-pdf]: http://www.physics.uci.edu/~tanedo/files/code/FlipBeamerTemplate.pdf
 [Ithaca]: https://pi.math.cornell.edu/~gomez/Research.html
 [Ithaca-pdf]: https://pi.math.cornell.edu/~gomez/Files/PDF/Ithacatemplate.pdf
-[Northwestern]: http://www.rohit-patel.com/beamer-themes/northwestern-beamer-theme
-[Kellogg]: http://www.rohit-patel.com/beamer-themes/kellogg-beamer-theme
 [Gelugor]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Gelugor
 [Gelugor-pdf]: https://bytebucket.org/liantze/beamer-gelugor/raw/1abaa164be3db398e2d0a485e1e74d461ddc2af3/example.pdf
 [Cyberjaya]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Cyberjaya
