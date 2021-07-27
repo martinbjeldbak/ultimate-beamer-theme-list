@@ -47,7 +47,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [CWRU] | | A basic Beamer theme for Case Western Reserve University, inspired by Montpellier and created by Matt Ruffalo. |
 | [Flip] | [PDF][Flip-pdf] | A theme by Philip "Flip" Tanedo. |
 | [Ithaca] | [PDF][Ithaca-pdf] | A theme based on Flip, created by Raul Gomez. |
-| [Econ1] | [PDF][Econ1-pdf] | A theme by Rohit Patel. He also has 2 other themes for [Northwestern] and [Kellogg] students. |
 | [Gelugor] | [PDF][Gelugor-pdf] | A theme mimicking Universiti Sains Malaysia (USM)’s Powerpoint presentation template, by Lim Lian Tze. |
 | [Cyberjaya] | [PDF][Cyberjaya-pdf] | A theme mimicking Multimedia University (MMU)’s Powerpoint presentation template, by Lim Lian Tze. |
 | [Skudai] | [PDF][Skudai-pdf] | A theme mimicking Universiti Teknologi Malaysia (UTM)’s Powerpoint presentation template, by Lim Lian Tze. |
@@ -167,8 +166,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Flip-pdf]: http://www.physics.uci.edu/~tanedo/files/code/FlipBeamerTemplate.pdf
 [Ithaca]: https://pi.math.cornell.edu/~gomez/Research.html
 [Ithaca-pdf]: https://pi.math.cornell.edu/~gomez/Files/PDF/Ithacatemplate.pdf
-[Econ1]: http://www.rohit-patel.com/beamer-themes
-[Econ1-pdf]: https://www.dropbox.com/s/paapp9sev9rdl92/Econ1.pdf?dl=1
 [Northwestern]: http://www.rohit-patel.com/beamer-themes/northwestern-beamer-theme
 [Kellogg]: http://www.rohit-patel.com/beamer-themes/kellogg-beamer-theme
 [Gelugor]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Gelugor
