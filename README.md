@@ -222,7 +222,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [pure-minimalistic]: https://github.com/kai-tub/latex-beamer-pure-minimalistic
 [pure-minimalistic-pdf]: https://github.com/kai-tub/latex-beamer-pure-minimalistic/wiki/beamertheme-pure-minimalistic-demo.pdf
 [auriga]: https://github.com/anishathalye/auriga
-[auriga-pdf]: https://raw.githubusercontent.com/anishathalye/auriga/assets/auriga.pdf
+[auriga-pdf]:https://raw.githubusercontent.com/anishathalye/assets/master/auriga/auriga.pdf
 [Arguelles]: https://github.com/piazzai/arguelles
 [Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo.pdf
 [PoliMi]: https://github.com/elauksap/beamerthemepolimi
