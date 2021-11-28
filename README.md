@@ -198,7 +198,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [BlackBoard-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_Blackboard.pdf
 [DarkConsole-pdf]: https://github.com/kmaed/kmbeamer/raw/master/examples/example_DarkConsole.pdf
 [s4ndm4n]: https://github.com/ruempel/beamer-s4ndm4n
-[s4ndm4n-screenshot]: https://github.com/ruempel/beamer-s4ndm4n/raw/master/beamer-s4ndm4n-example.png
+[s4ndm4n-screenshot]: https://raw.githubusercontent.com/ruempel/beamer-s4ndm4n/main/beamer-s4ndm4n-example.png
 [Saarland]: https://github.com/kailashbuki/beamerthemesaarland
 [Saarland-pdf]: https://github.com/kailashbuki/beamerthemesaarland/blob/master/slides.pdf
 [TAU]: https://github.com/alexlib/beamer_template_tau
