@@ -19,28 +19,22 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
 | [makokal-JUB] | [PDF][makokal-JUB-pdf] | Okal Billy's theme used while at Jacobs University. |
 | [kansai-debian] | [PDF][kansai-debian-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
-| [Lleida] | [Screenshot][Lleida-screenshot] | A theme created by Paulo Jorge Matos. |
 | [Sybila] | [PDF][Sybila-pdf] | A theme created by Sybila. |
 | [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. |
 | [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
-| [ZBH] | [Screenshot][ZBH-screenshot] | Unofficial Beamer theme for the ZBH of the University of Hamburg.  |
 | [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of Technische Universität Braunschweig |
-| [carlworld-beamer-slide-theme] | [Screenshot][carlworld-beamer-slide-theme-screenshot] | Carl Compliant Beamer slide theme. |
-| [intridea] | [Screenshot][intridea-screenshot] | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
 | [Subdued] | [Screenshot][Subdued-pdf] | A subdued, stylish beamer template by Cameron Bracken |
 | [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen (me!) |
 | [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
 | [GC3] | [PDF][GC3-pdf] | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri. |
 | [BeamerPorts] | Various on project page | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer |
-| [HSMA] | [Screenshot][HSMA-screenshot] | A theme complying with the corporate design of Hochschule Mannheim - University of Applied Science, Germany by Steve Hegenbart. |
 | [Zurich] | [Screenshot][Zurich-screenshot] | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
 | [metropolis] | [PDF][metropolis-pdf] | The metropolise theme (previously *m* or *mtheme*) is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
-| [Amsterdam] | [Screenshot][Amsterdam-screenshot] | This theme is called "Amsterdam" and has been created by Rogier Koppejan. It's based on Dresden but with custom colors. |
 | [Frederiksberg] | [PDF][Frederiksberg-pdf] | Frederiksberg beamer theme from the University of Copenhagen. |
 | [UMBC] | [Screenshot][UMBC-screenshot] | A couple of themes made by Rouben Rostamian for UMBC University. |
 | [Uppsala] | [Screenshot][Uppsala-screenshot] | A theme for the Uppsala University of Sweden made by Frédéric Haziza. |
-| [McGill] | [Screenshot][McGill-screenshot] | A theme with a nice McGill layout. |
+| [McGill] | [PDF][McGill-pdf] | A theme with a nice McGill layout. |
 | [McGill-alt] | [PDF][McGill-alt-pdf] | A McGill theme that isn't red by Gabi Sarkis. |
 | [Execushares] | [PDF][Execushares-pdf] | A minimalist and modern Beamer theme by Kenton Hamaluik. |
 | [TUGraz] | [Screenshot][TUGraz-screenshot] | A theme using the cooperate identity of the TU Graz, by Martin Weiglhofer. |
@@ -108,8 +102,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [makokal-JUB-pdf]: https://github.com/makokal/beamer-themes/raw/master/JUB/jub_sample.pdf
 [kansai-debian]: https://github.com/uwabami/beamerthemeKansaiDebianMeeting
 [kansai-debian-pdf]: https://github.com/uwabami/beamerthemeKansaiDebianMeeting/raw/master/README.pdf
-[Lleida]: https://github.com/pmatos/beamerthemeLleida
-[Lleida-screenshot]: http://latex.simon04.net/img/lleida.png
 [Sybila]: https://github.com/sybila/presentation-template
 [Sybila-pdf]: https://github.com/sybila/presentation-template/raw/master/presentation.pdf
 [bunsen]: https://github.com/seth-brown/drbunsen-beamer
@@ -118,14 +110,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [UniversiteitGent-screenshot]: http://pbelmans.files.wordpress.com/2012/02/slide.png?w=994
 [LSE]: https://github.com/christophergandrud/LSE-Beamer-Theme
 [LSE-pdf]: https://github.com/christophergandrud/LSE-Beamer-Theme/raw/master/Example.pdf
-[ZBH]: https://github.com/satta/zbh-beamer-theme
-[ZBH-screenshot]: http://latex.simon04.net/img/zbh.jpg
 [TU-BS]: https://www.tu-braunschweig.de/latex
 [TU-BS-pdf]: https://www.tu-braunschweig.de/fileadmin/_processed_/6/3/csm_beamer_example-page1_1d7bcef9b2.png
-[carlworld-beamer-slide-theme]: https://github.com/rob-p/carlworld-beamer-slide-theme
-[carlworld-beamer-slide-theme-screenshot]: http://latex.simon04.net/img/carlworld.png
-[intridea]: https://github.com/doitian/intridea-beamer-theme
-[intridea-screenshot]: http://latex.simon04.net/img/intridea.png
 [HongKong]: https://github.com/quxiaofeng/PolyU_beamer_theme
 [HongKong-pdf]: https://github.com/quxiaofeng/PolyU_beamer_theme/raw/master/example/example.pdf
 [Subdued]: https://www.overleaf.com/latex/templates/beamer-template-by-cameron-bracken/gmgmqwprthxb
@@ -135,16 +121,12 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [GC3]: https://github.com/gc3-uzh-ch/beamer-theme-gc3
 [GC3-pdf]: https://github.com/gc3-uzh-ch/beamer-theme-gc3/raw/master/example.pdf
 [BeamerPorts]: https://bitbucket.org/marczellm/beamerports/src
-[HSMA]: http://latex.simon04.net/hsma_theme.tar.bz2
-[HSMA-screenshot]: http://latex.simon04.net/img/hsma.png
 [Bjeldbak]: https://github.com/martinbjeldbak/beamertheme-bjeldbak
 [Bjeldbak-screenshot]: https://raw.githubusercontent.com/martinbjeldbak/beamertheme-bjeldbak/master/screenshots/beamerthemebjeldbak4.png
 [Zurich]: https://github.com/ppletscher/beamerthemezurich
 [Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
 [metropolis]: https://github.com/matze/mtheme
 [metropolis-pdf]: https://mirror.aarnet.edu.au/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/metropolis/demo/demo.pdf
-[Amsterdam]: http://latex.simon04.net/beamerthemeAmsterdam.sty
-[Amsterdam-screenshot]: http://latex.simon04.net/img/amsterdam.jpg
 [Frederiksberg]: https://github.com/cbourjau/frederiksberg_beamer
 [Frederiksberg-PDF]: https://github.com/cbourjau/frederiksberg_beamer/raw/master/FrederiksbergUserGuide-2-2.pdf
 [UMBC]: http://userpages.umbc.edu/~rostamia/beamer/quickstart-Z-H-8.html#node_sec_8
@@ -152,7 +134,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Uppsala]: http://www.it.uu.se/katalog/daz/uppsala_beamer
 [Uppsala-screenshot]: http://www.it.uu.se/katalog/daz/uppsala_beamer/beamerUppsalaExampleFrame.jpg
 [McGill]: http://structdynviblab.mcgill.ca/archives/layoutBeamerMcGill.7z
-[McGill-screenshot]: http://latex.simon04.net/img/McGill.png
+[McGill-pdf]: https://github.com/martinbjeldbak/ultimate-beamer-theme-list/files/7918232/MainFile.pdf
 [McGill-alt]: https://github.com/gsarkis/McGill-Beamer-Theme
 [McGill-alt-pdf]: https://github.com/gsarkis/McGill-Beamer-Theme/raw/master/example.pdf
 [Execushares]: https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares
