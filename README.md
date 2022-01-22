@@ -7,7 +7,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 
 |  Theme |  Preview |  Notes |
 | ------ | -------- | ------ |
-| [beamer-progressbar] | [PDF][beamer-progressbar-pdf] | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [website][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repo. |
+| [beamer-progressbar] | [PDF][beamer-progressbar-pdf] | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [site][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repository. |
 | [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for latex beamer made by Fabrice Gadaud. |
 | [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
 | [TU/e PDFScreen][tue-pdfscreen]  | [PDF][tue-pdfscreen-pdf]  | It's the post dated January 31, 2008. |
