@@ -1,5 +1,7 @@
 # The Ultimate Beamer Theme List
-Hi! Below is a table of custom Beamer themes originally taken from [latex.simon04.net](http://latex.simon04.net), now expanded to include a few more themes.
+[![Check Markdown links](https://github.com/martinbjeldbak/ultimate-beamer-theme-list/actions/workflows/check-md-links.yml/badge.svg)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list/actions/workflows/check-md-links.yml)
+
+Hi! Below is a table of custom Beamer themes originally taken from [latex.simon04.net](https://web.archive.org/web/20211111142041/https://latex.simon04.net/) (archive.org mirror), now expanded to include a few more themes.
 
 Want to add yours? Awesome! Send a PR with your link added to the bottom of the table, or email me (see my GitHub profile) and I'll do it for you.
 
