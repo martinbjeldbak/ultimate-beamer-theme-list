@@ -19,10 +19,14 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
 | [makokal-JUB] | [PDF][makokal-JUB-pdf] | Okal Billy's theme used while at Jacobs University. |
 | [kansai-debian] | [PDF][kansai-debian-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
+| [Lleida] |  | A theme created by Paulo Jorge Matos. |
 | [Sybila] | [PDF][Sybila-pdf] | A theme created by Sybila. |
 | [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. |
 | [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
+| [ZBH] | | Unofficial Beamer theme for the ZBH of the University of Hamburg. |
 | [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of Technische Universität Braunschweig |
+| [carlworld-beamer-slide-theme] | | Carl Compliant Beamer slide theme. |
+| [intridea] | | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
 | [Subdued] | [Screenshot][Subdued-pdf] | A subdued, stylish beamer template by Cameron Bracken |
 | [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen (me!) |
@@ -102,6 +106,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [makokal-JUB-pdf]: https://github.com/makokal/beamer-themes/raw/master/JUB/jub_sample.pdf
 [kansai-debian]: https://github.com/uwabami/beamerthemeKansaiDebianMeeting
 [kansai-debian-pdf]: https://github.com/uwabami/beamerthemeKansaiDebianMeeting/raw/master/README.pdf
+[Lleida]: https://github.com/pmatos/beamerthemeLleida
 [Sybila]: https://github.com/sybila/presentation-template
 [Sybila-pdf]: https://github.com/sybila/presentation-template/raw/master/presentation.pdf
 [bunsen]: https://github.com/seth-brown/drbunsen-beamer
@@ -110,8 +115,11 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [UniversiteitGent-screenshot]: http://pbelmans.files.wordpress.com/2012/02/slide.png?w=994
 [LSE]: https://github.com/christophergandrud/LSE-Beamer-Theme
 [LSE-pdf]: https://github.com/christophergandrud/LSE-Beamer-Theme/raw/master/Example.pdf
+[ZBH]: https://github.com/satta/zbh-beamer-theme
 [TU-BS]: https://www.tu-braunschweig.de/latex
 [TU-BS-pdf]: https://www.tu-braunschweig.de/fileadmin/_processed_/6/3/csm_beamer_example-page1_1d7bcef9b2.png
+[carlworld-beamer-slide-theme]: https://github.com/rob-p/carlworld-beamer-slide-theme
+[intridea]: https://github.com/doitian/intridea-beamer-theme
 [HongKong]: https://github.com/quxiaofeng/PolyU_beamer_theme
 [HongKong-pdf]: https://github.com/quxiaofeng/PolyU_beamer_theme/raw/master/example/example.pdf
 [Subdued]: https://www.overleaf.com/latex/templates/beamer-template-by-cameron-bracken/gmgmqwprthxb
