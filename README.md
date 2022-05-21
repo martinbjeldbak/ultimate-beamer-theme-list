@@ -15,7 +15,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
 | [UA] | [Screenshot][UA-screenshot] | A LaTeX beamer theme for the University of Antwerp. |
 | [UniversiteitGent] | [Screenshot][UniversiteitGent-screenshot] | This is a LaTeX beamer theme for the University of Ghent, based on the UA theme. |
-| [UNL] | [PDF][UNL-pdf] | Chris Bourke made a nice theme for the University of Nebraska-Lincoln. The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. |
 | [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
 | [makokal-JUB] | [PDF][makokal-JUB-pdf] | Okal Billy's theme used while at Jacobs University. |
 | [kansai-debian] | [PDF][kansai-debian-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
@@ -98,8 +97,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Torino-screenshot]: http://www.flickr.com/photos/barisione/1401707576/
 [UA]: https://github.com/nschloe/ua-beamer
 [UA-screenshot]: https://raw.githubusercontent.com/nschloe/ua-beamer/master/doc/manual/figures/dark-page1.png
-[UNL]: https://chrisbourke.unl.edu
-[UNL-pdf]: http://cse.unl.edu/~cbourke/latex/UNLTheme.pdf
 [makokal-ALUF]: https://github.com/makokal/beamer-themes
 [makokal-ALUF-pdf]: https://github.com/makokal/beamer-themes/raw/master/ALUF/aluf_sample.pdf
 [makokal-JUB]: https://github.com/makokal/beamer-themes
@@ -171,7 +168,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [brown]: http://git.tiker.net/brown-beamer.git
 [mit]: https://github.com/jtriley/mit-beamer
 [sthlm]: https://github.com/mholson/sthlmNordBeamerTheme
-[sthlm-pdf]: https://github.com/mholson/sthlmNordBeamerTheme/blob/main/sthlmNordTemplate.pdf
+[sthlm-pdf]: https://github.com/mholson/sthlmNordBeamerTheme/blob/main/sthlmNordTemplate-v3_0.pdf
 [rured]: https://github.com/naiaden/presentations/tree/master/rured
 [rured-pdf]: https://github.com/naiaden/presentations/raw/master/rured/example.pdf
 [kuleuven]: https://github.com/naiaden/presentations/tree/master/Leuven-9monthsprogress
@@ -216,7 +213,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [auriga]: https://github.com/anishathalye/auriga
 [auriga-pdf]:https://raw.githubusercontent.com/anishathalye/assets/master/auriga/auriga.pdf
 [Arguelles]: https://github.com/piazzai/arguelles
-[Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo.pdf
+[Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo/demo-arguelles.pdf
 [PoliMi]: https://github.com/elauksap/beamerthemepolimi
 [PoliMi-pdf]: https://github.com/elauksap/beamerthemepolimi/raw/master/demo.pdf
 [strathbeamer]: https://github.com/nitrogl/strathbeamer
