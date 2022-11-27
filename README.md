@@ -33,7 +33,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
 | [GC3] | [PDF][GC3-pdf] | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri. |
 | [BeamerPorts] | Various on project page | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer |
-| [Zurich] | [Screenshot][Zurich-screenshot] | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
+| [Zurich] | | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
 | [metropolis] | [PDF][metropolis-pdf] | The metropolise theme (previously *m* or *mtheme*) is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
 | [Frederiksberg] | [PDF][Frederiksberg-pdf] | Frederiksberg beamer theme from the University of Copenhagen. |
 | [UMBC] | [Screenshot][UMBC-screenshot] | A couple of themes made by Rouben Rostamian for UMBC University. |
@@ -132,7 +132,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Bjeldbak]: https://github.com/martinbjeldbak/beamertheme-bjeldbak
 [Bjeldbak-screenshot]: https://raw.githubusercontent.com/martinbjeldbak/beamertheme-bjeldbak/master/screenshots/beamerthemebjeldbak4.png
 [Zurich]: https://github.com/ppletscher/beamerthemezurich
-[Zurich-screenshot]: https://camo.githubusercontent.com/fdcf57b9a95ad59329c8a4f6732b7e177b4990d3/687474703a2f2f706c657473636865722e6f72672f6173736574732f696d672f706c65747363686572323031327468657369732d74616c6b5f736d616c6c2e706e67
 [metropolis]: https://github.com/matze/mtheme
 [metropolis-pdf]: https://mirror.aarnet.edu.au/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/metropolis/demo/demo.pdf
 [Frederiksberg]: https://github.com/cbourjau/frederiksberg_beamer
