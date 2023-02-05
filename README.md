@@ -81,6 +81,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [PoliMi] | [PDF][polimi-pdf] | Beamer port of the official Polytechnic University of Milan presentation theme by Pasquale Claudio Africa. |
 | [strathbeamer] | [PDF][strathbeamer-pdf] | Unofficial beamer template following the official branding guidance for University of Strathclyde, by Roberto Metere. |
 | [nclbeamer] | [PDF][nclbeamer-pdf] | Unofficial beamer template following the official branding guidance for Newcastle University, by Roberto Metere. |
+| [awesome-beamer] | [PDF][awesome-beamer-pdf] | A light, modern and minimal, thus beautiful theme by Lukas Pietzschmann, |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -222,3 +223,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [strathbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example.pdf
 [nclbeamer]: https://github.com/nitrogl/nclbeamer
 [nclbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/nclbeamer/master/examples/ncl-example.pdf
+[awesome-beamer]: https://github.com/LukasPietzschmann/awesome-beamer
+[awesome-beamer-pdf]: https://github.com/LukasPietzschmann/awesome-beamer/blob/master/example.pdf
