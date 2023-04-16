@@ -205,7 +205,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [usyd-beamer-theme]: https://github.com/malramsay64/usyd-beamer-theme
 [usyd-beamer-theme-release]: https://github.com/malramsay64/usyd-beamer-theme/releases/latest
 [focus]: https://github.com/elauksap/focus-beamertheme
-[focus-pdf]: https://github.com/elauksap/focus-beamertheme/raw/master/focus-demo.pdf
+[focus-pdf]: https://raw.githubusercontent.com/pcafrica/focus-beamertheme/main/focus-demo.pdf
 [UT-LaTeX-Beamer-Theme]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/
 [ut-latex-beamer-theme-pdf]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/res/manual.pdf
 [beamerthemeuconn]: https://github.com/corybrunson/beamerthemeuconn
