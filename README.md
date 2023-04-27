@@ -41,7 +41,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [McGill] | [PDF][McGill-pdf] | A theme with a nice McGill layout. |
 | [McGill-alt] | [PDF][McGill-alt-pdf] | A McGill theme that isn't red by Gabi Sarkis. |
 | [Execushares] | [PDF][Execushares-pdf] | A minimalist and modern Beamer theme by Kenton Hamaluik. |
-| [TUGraz] | [Screenshot][TUGraz-screenshot] | A theme using the cooperate identity of the TU Graz, by Martin Weiglhofer. |
 | [aecio] | [PDF][aecio-pdf] | A super simple and clean latex beamer theme, by Aécio Santos. |
 | [supelec] | [PDF][supelec-pdf] | A beamer theme for Supélec, by Frédéric Boulanger. |
 | [CWRU] | | A basic Beamer theme for Case Western Reserve University, inspired by Montpellier and created by Matt Ruffalo. |
@@ -148,8 +147,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [McGill-alt-pdf]: https://github.com/gsarkis/McGill-Beamer-Theme/raw/master/example.pdf
 [Execushares]: https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares
 [Execushares-pdf]: https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares/raw/master/sample.pdf
-[TUGraz]: http://www.ist.tugraz.at/staff/weiglhofer/misc/tugbeamer/
-[TUGraz-screenshot]: http://www.ist.tugraz.at/staff/weiglhofer/misc/tugbeamer/img/presentation_boxes.png
 [aecio]: https://github.com/aecio/beamer-theme
 [aecio-pdf]: https://github.com/aecio/beamer-theme/raw/master/beamer-demo.pdf
 [supelec]: https://wdi.centralesupelec.fr/boulanger/Software/HomePage-En
