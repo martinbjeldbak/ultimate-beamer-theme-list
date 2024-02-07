@@ -71,7 +71,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson
 | [usyd-beamer-theme] | [Releases][usyd-beamer-theme-release] | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay. |
 | [focus] | [PDF][focus-pdf] | A minimalist presentation theme for LaTeX Beamer by Pasquale Claudio Africa. |
-| [UT-LaTeX-Beamer-Theme] | [PDF][ut-latex-beamer-theme-pdf] | Beamer theme using the house style of the University of Twente, by Jasper Goseling
 | [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson
 | [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace.
 | [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen
@@ -204,8 +203,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [usyd-beamer-theme-release]: https://github.com/malramsay64/usyd-beamer-theme/releases/latest
 [focus]: https://github.com/elauksap/focus-beamertheme
 [focus-pdf]: https://raw.githubusercontent.com/pcafrica/focus-beamertheme/main/focus-demo.pdf
-[UT-LaTeX-Beamer-Theme]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/
-[ut-latex-beamer-theme-pdf]: https://www.utwente.nl/en/eemcs/sor/staff/goseling/utbeamer/res/manual.pdf
 [beamerthemeuconn]: https://github.com/corybrunson/beamerthemeuconn
 [beamerthemeuconn-pdf]: https://github.com/corybrunson/beamerthemeuconn/blob/master/uconn-theme-example.pdf
 [unina-beamer]: https://github.com/luistar/unina-beamer
