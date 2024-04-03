@@ -10,7 +10,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [beamer-progressbar] | [PDF][beamer-progressbar-pdf] | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [site][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repository. |
 | [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for latex beamer made by Fabrice Gadaud. |
 | [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
-| [TU/e PDFScreen][tue-pdfscreen]  | [PDF][tue-pdfscreen-pdf]  | It's the post dated January 31, 2008. |
 | [IAS themes] | [Screenshot][IAS themes-screenshot] | Created by Frans Oliehoek. |
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
 | [UA] | [Screenshot][UA-screenshot] | A LaTeX beamer theme for the University of Antwerp. |
@@ -91,8 +90,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [CEA-pdf]: http://fabrice.gadaud.org/beamer-cea-example.pdf
 [diepen style]: http://www.guidodiepen.nl/2009/04/latex-beamer-diepen-style/
 [diepen style-screenshot]: https://www.guidodiepen.nl/content/images/2009/04/example-1.png
-[tue-pdfscreen]: http://www.win.tue.nl/latex/windows.html
-[tue-pdfscreen-pdf]: http://www.win.tue.nl/latex/slides.pdf
 [IAS themes]: http://people.csail.mit.edu/fao/index.php?fuseaction=var.beamer
 [IAS themes-screenshot]: http://people.csail.mit.edu/fao/var/images//IAS_sidebar.jpg
 [Torino]: http://blog.barisione.org/2007-09/torino-a-pretty-theme-for-latex-beamer/
