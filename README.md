@@ -82,6 +82,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [awesome-beamer] | [PDF][awesome-beamer-pdf] | A light, modern and minimal, thus beautiful theme by Lukas Pietzschmann, |
 | [Mumbai] | [PDF][Mumbai-pdf] | A blue coloured beamer theme that can interface with multiple beamer outer themes |
 | [lucid] | [PDF][lucid-pdf] | A modern Beamer theme you can use without installing dozens of CTAN packages |
+| [Moloch] | [Screenshot][Moloch-screenshot] | A clean and simple theme, forked off from the Metropolis theme |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -225,3 +226,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Mumbai-pdf]: https://github.com/vachan-potluri/beamer_themes/blob/main/Mumbai/sample.pdf
 [lucid]: https://github.com/harisont/lucid
 [lucid-pdf]: https://github.com/harisont/lucid/blob/master/slides.pdf
+[Moloch]: https://github.com/jolars/moloch
+[Moloch-screenshot]: https://raw.githubusercontent.com/jolars/moloch/main/assets/screenshot.svg
