@@ -218,7 +218,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [nclbeamer]: https://github.com/nitrogl/nclbeamer
 [nclbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/nclbeamer/master/examples/ncl-example.pdf
 [awesome-beamer]: https://github.com/LukasPietzschmann/awesome-beamer
-[awesome-beamer-pdf]: https://github.com/LukasPietzschmann/awesome-beamer/blob/master/example.pdf
+[awesome-beamer-pdf]: https://raw.githubusercontent.com/LukasPietzschmann/hydrogen-energy/build/talk.pdf
 [Mumbai]: https://github.com/vachan-potluri/beamer_themes/tree/main/Mumbai#readme
 [Mumbai-pdf]: https://github.com/vachan-potluri/beamer_themes/blob/main/Mumbai/sample.pdf
 [lucid]: https://github.com/harisont/lucid
