@@ -110,8 +110,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Sybila-pdf]: https://github.com/sybila/presentation-template/raw/master/presentation.pdf
 [bunsen]: https://github.com/seth-brown/drbunsen-beamer
 [bunsen-pdf]: https://github.com/drbunsen/drbunsen-beamer/raw/master/bunsen_beamer_example.pdf
-[UniversiteitGent]: http://pbelmans.wordpress.com/2012/02/09/a-beamer-theme-for-the-university-of-ghent/
-[UniversiteitGent-screenshot]: http://pbelmans.files.wordpress.com/2012/02/slide.png?w=994
+[UniversiteitGent]: https://pbelmans.ncag.info/blog/2012/02/09/a-beamer-theme-for-the-university-of-ghent/
+[UniversiteitGent-screenshot]: https://pbelmans.ncag.info/assets/title-slide.png
 [LSE]: https://github.com/christophergandrud/LSE-Beamer-Theme
 [LSE-pdf]: https://github.com/christophergandrud/LSE-Beamer-Theme/raw/master/Example.pdf
 [ZBH]: https://github.com/satta/zbh-beamer-theme
