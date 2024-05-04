@@ -66,14 +66,14 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [s4ndm4n] | [PDF][s4ndm4n-screenshot] | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel. |
 | [Saarland] | [PDF][Saarland-pdf] | An unofficial beamer theme for Saarland University, by Kailash Budhathoki. |
 | [TAU] | [PDF][TAU-pdf] | An unofficial beamer theme for Tel Aviv University, by Alex Liberzon. |
-| [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson
-| [fsu-beamer-theme] | [PDF][fsu-beamer-theme-pdf] | An unofficial beamer theme for Floridal State University, by Robert Robinson
-| [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson
+| [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson |
+| [fsu-beamer-theme] | [PDF][fsu-beamer-theme-pdf] | An unofficial beamer theme for Floridal State University, by Robert Robinson |
+| [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson |
 | [usyd-beamer-theme] | [Releases][usyd-beamer-theme-release] | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay. |
 | [focus] | [PDF][focus-pdf] | A minimalist presentation theme for LaTeX Beamer by Pasquale Claudio Africa. |
-| [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson
-| [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace.
-| [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen
+| [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson |
+| [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace. |
+| [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen |
 | [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTex beamer presentation theme. |
 | [Arguelles] | [PDF][Arguelles-pdf] | Argüelles is a clean, typographic theme featuring the Alegreya font family. |
 | [PoliMi] | [PDF][polimi-pdf] | Beamer port of the official Polytechnic University of Milan presentation theme by Pasquale Claudio Africa. |

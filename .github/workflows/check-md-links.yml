@@ -2,6 +2,8 @@
 
 name: Check Markdown links
 
+permissions: read-all
+
 on:
   push:
   schedule:
