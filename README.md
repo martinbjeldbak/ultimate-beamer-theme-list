@@ -72,7 +72,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [usyd-beamer-theme] | [Releases][usyd-beamer-theme-release] | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay. |
 | [focus] | [PDF][focus-pdf] | A minimalist presentation theme for LaTeX Beamer by Pasquale Claudio Africa. |
 | [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson |
-| [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace.
+| [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace. |
 | [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen |
 | [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTex beamer presentation theme. |
 | [Arguelles] | [PDF][Arguelles-pdf] | Argüelles is a clean, typographic theme featuring the Alegreya font family. |
