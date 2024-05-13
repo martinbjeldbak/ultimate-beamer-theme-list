@@ -83,6 +83,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Mumbai] | [PDF][Mumbai-pdf] | A blue coloured beamer theme that can interface with multiple beamer outer themes |
 | [lucid] | [PDF][lucid-pdf] | A modern Beamer theme you can use without installing dozens of CTAN packages |
 | [Moloch] | [Screenshot][Moloch-screenshot] | A clean and simple theme, forked off from the Metropolis theme |
+| [Amurmaple] | [PDF][amurmaple-pdf] | A modern beamer theme with sepframe |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -229,3 +230,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [pmichaillat]: https://github.com/pmichaillat/latex-presentation
 [pmichaillat-pdf]: https://pascalmichaillat.org/d1.pdf
 [pmichaillat-docs]: https://pascalmichaillat.org/d1
+[Amurmaple]: https://ctan.org/pkg/beamerthemeamurmaple
+[amurmaple-pdf]: https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamerthemeamurmaple/doc/beamer-amurmaple-doc.pdf
