@@ -152,8 +152,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [supelec]: https://wdi.centralesupelec.fr/boulanger/Software/HomePage-En
 [supelec-pdf]: https://wdi.centralesupelec.fr/boulanger/download/LaTeX/beamersupelec/doc/splcbeam/beamer_supelec.pdf
 [CWRU]: https://github.com/mruffalo/beamer-theme-cwru
-[Flip]: http://www.physics.uci.edu/~tanedo/docs.html
-[Flip-pdf]: http://www.physics.uci.edu/~tanedo/files/code/FlipBeamerTemplate.pdf
+[Flip]: https://github.com/fliptanedo/FlipBeamerTheme
+[Flip-pdf]: https://github.com/fliptanedo/FlipBeamerTheme/blob/master/FlipBeamerTemplate.pdf
 [Ithaca]: https://pi.math.cornell.edu/~gomez/Research.html
 [Ithaca-pdf]: https://pi.math.cornell.edu/~gomez/Files/PDF/Ithacatemplate.pdf
 [Gelugor]: http://liantze.penguinattack.org/latextypesetting.html#beamer-Gelugor
