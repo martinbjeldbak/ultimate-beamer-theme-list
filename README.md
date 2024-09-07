@@ -220,8 +220,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [strathbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example.pdf
 [nclbeamer]: https://github.com/nitrogl/nclbeamer
 [nclbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/nclbeamer/master/examples/ncl-example.pdf
-[nccubeamer]: https://github.com/AbnerTeng/LaTeX-templates/tree/main/beamer
-[nccubeamer-pdf]: https://github.com/AbnerTeng/LaTeX-templates/blob/main/beamer/beamer.pdf
+[nccubeamer]: https://github.com/AbnerTeng/LaTeX-templates/tree/main/nccu_beamer
+[nccubeamer-pdf]: https://github.com/AbnerTeng/LaTeX-templates/blob/main/nccu_beamer/beamer.pdf
 [awesome-beamer]: https://github.com/LukasPietzschmann/awesome-beamer
 [awesome-beamer-pdf]: https://raw.githubusercontent.com/LukasPietzschmann/hydrogen-energy/build/talk.pdf
 [Mumbai]: https://github.com/vachan-potluri/beamer_themes/tree/main/Mumbai#readme
