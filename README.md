@@ -85,6 +85,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Moloch] | [Screenshot][Moloch-screenshot] | A clean and simple theme, forked off from the Metropolis theme |
 | [Amurmaple] | [PDF][amurmaple-pdf] | A modern beamer theme with sepframe by Maxime Chupin |
 | [nccubeamer] | [PDF][nccubeamer-pdf] | Unofficial beamer template following the official color code for National Chengchi University by Yu-Chen, Den. |
+| [Starkville] | [PDF][Starkville-pdf] | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -235,3 +236,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [pmichaillat-docs]: https://pascalmichaillat.org/d1
 [Amurmaple]: https://ctan.org/pkg/beamerthemeamurmaple
 [amurmaple-pdf]: https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamerthemeamurmaple/doc/beamer-amurmaple-doc.pdf
+[Starkville]: https://github.com/DakotaHester/Starkville_beamer_theme
+[Starkville-pdf]: https://github.com/DakotaHester/Starkville_beamer_theme/blob/main/example_presentation.pdf
