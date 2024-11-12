@@ -239,4 +239,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [amurmaple-pdf]: https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamerthemeamurmaple/doc/beamer-amurmaple-doc.pdf
 [Starkville]: https://github.com/DakotaHester/Starkville_beamer_theme
 [Starkville-pdf]: https://github.com/DakotaHester/Starkville_beamer_theme/blob/main/example_presentation.pdf
+[Soton]: https://github.com/tgodfrey0/soton-beamer
 [Soton-pdf]: https://github.com/tgodfrey0/soton-beamer/blob/main/beamer-example/beamer_test.pdf
