@@ -86,6 +86,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Amurmaple] | [PDF][amurmaple-pdf] | A modern beamer theme with sepframe by Maxime Chupin |
 | [nccubeamer] | [PDF][nccubeamer-pdf] | Unofficial beamer template following the official color code for National Chengchi University by Yu-Chen, Den. |
 | [Starkville] | [PDF][Starkville-pdf] | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester |
+| [Soton] | [PDF][Soton-pdf] | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton |
 
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
@@ -238,3 +239,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [amurmaple-pdf]: https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamerthemeamurmaple/doc/beamer-amurmaple-doc.pdf
 [Starkville]: https://github.com/DakotaHester/Starkville_beamer_theme
 [Starkville-pdf]: https://github.com/DakotaHester/Starkville_beamer_theme/blob/main/example_presentation.pdf
+[Soton]: https://github.com/tgodfrey0/soton-beamer
+[Soton-pdf]: https://github.com/tgodfrey0/soton-beamer/blob/main/beamer-example/beamer_test.pdf
