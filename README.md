@@ -8,7 +8,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 |  Theme |  Preview |  Notes |
 | ------ | -------- | ------ |
 | [pmichaillat] | [PDF][pmichaillat-pdf] | Pascal Michaillat's Minimalist LaTeX Template for Academic Presentations. Documentation can be found [here][pmichaillat-docs]. |
-| [Gotham-git] | [PDF][Gotham-pdf-pdf] | A modern, minimal-ish, versatile and extendable theme, which is bringing LaTeX3 power and flexibilty on top of Metropolis' good looking. It is also available on [CTAN][Gotham-ctan] repository. |
+| [Gotham-git] | [PDF][Gotham-pdf] | A modern, minimal-ish, versatile and extendable theme, which is bringing LaTeX3 power and flexibilty on top of Metropolis' good looking. It is also available on [CTAN][Gotham-ctan] repository. |
 | [beamer-progressbar] | [PDF][beamer-progressbar-pdf] | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [site][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repository. |
 | [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for latex beamer made by Fabrice Gadaud. |
 | [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
