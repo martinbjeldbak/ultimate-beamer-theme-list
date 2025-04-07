@@ -88,7 +88,10 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [nccubeamer] | [PDF][nccubeamer-pdf] | Unofficial beamer template following the official color code for National Chengchi University by Yu-Chen, Den. |
 | [Starkville] | [PDF][Starkville-pdf] | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester |
 | [Soton] | [PDF][Soton-pdf] | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton |
+| [ucdavis-theme-xelatex] | [PDF][ucdavis-pdf] | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repo.  |
 
+[ucdavis-theme-xelatex]: https://github.com/chesun/latex_templates/tree/main/ucdavis_beamer_theme_xelatex
+[ucdavis-pdf]: https://github.com/chesun/latex_templates/blob/main/ucdavis_beamer_theme_xelatex/ucdavis_theme_test.pdf
 [Gotham-git]: https://gitlab.com/RomainNOEL/beamertheme-gotham
 [Gotham-ctan]: https://ctan.org/pkg/beamertheme-gotham
 [Gotham-pdf]: https://gitlab.com/api/v4/projects/52144864/jobs/artifacts/main/raw/gotham-example169transp.pdf?job=deploy-files
