@@ -7,7 +7,9 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 
 |  Theme |  Preview |  Notes |
 | ------ | -------- | ------ |
+| [beamerthemeblei] | [PDF][beamerthemeblei-pdf] | For academics. A clean and minimal Beamer theme mimicking David Blei's presentations
 | [pmichaillat] | [PDF][pmichaillat-pdf] | Pascal Michaillat's Minimalist LaTeX Template for Academic Presentations. Documentation can be found [here][pmichaillat-docs]. |
+| [Gotham-git] | [PDF][Gotham-pdf] | A modern, minimal-ish, versatile and extendable theme, which is bringing LaTeX3 power and flexibilty on top of Metropolis' good looking. It is also available on [CTAN][Gotham-ctan] repository. |
 | [beamer-progressbar] | [PDF][beamer-progressbar-pdf] | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [site][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repository. |
 | [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for latex beamer made by Fabrice Gadaud. |
 | [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
@@ -85,11 +87,21 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Moloch] | [Screenshot][Moloch-screenshot] | A clean and simple theme, forked off from the Metropolis theme |
 | [Amurmaple] | [PDF][amurmaple-pdf] | A modern beamer theme with sepframe by Maxime Chupin |
 | [nccubeamer] | [PDF][nccubeamer-pdf] | Unofficial beamer template following the official color code for National Chengchi University by Yu-Chen, Den. |
+| [Starkville] | [PDF][Starkville-pdf] | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester |
+| [Soton] | [PDF][Soton-pdf] | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton |
+| [ucdavis-theme-xelatex] | [PDF][ucdavis-pdf] | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repo.  |
 
+[ucdavis-theme-xelatex]: https://github.com/chesun/latex_templates/tree/main/ucdavis_beamer_theme_xelatex
+[ucdavis-pdf]: https://github.com/chesun/latex_templates/blob/main/ucdavis_beamer_theme_xelatex/ucdavis_theme_test.pdf
+[Gotham-git]: https://gitlab.com/RomainNOEL/beamertheme-gotham
+[Gotham-ctan]: https://ctan.org/pkg/beamertheme-gotham
+[Gotham-pdf]: https://gitlab.com/api/v4/projects/52144864/jobs/artifacts/main/raw/gotham-example169transp.pdf?job=deploy-files
 [beamer-progressbar]: https://github.com/cedricmauclair/beamer-progressbar
 [beamer-progressbar-pdf]: https://github.com/cedricmauclair/beamer-progressbar/raw/master/demo-slides.pdf
 [beamer-progressbar-web]: http://recherche.noiraudes.net/fr/LaTeX.php
 [beamer-progressbar-web-2]: https://github.com/cedricmauclair/beamer-themes
+[beamerthemeblei]: https://github.com/mvsoom/beamerthemeblei
+[beamerthemeblei-pdf]: https://github.com/mvsoom/beamerthemeblei/blob/main/example.pdf
 [CEA]: http://fabrice.gadaud.org/beamer-theme-cea.tar.gz
 [CEA-pdf]: http://fabrice.gadaud.org/beamer-cea-example.pdf
 [diepen style]: http://www.guidodiepen.nl/2009/04/latex-beamer-diepen-style/
@@ -220,8 +232,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [strathbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example.pdf
 [nclbeamer]: https://github.com/nitrogl/nclbeamer
 [nclbeamer-pdf]: https://raw.githubusercontent.com/nitrogl/nclbeamer/master/examples/ncl-example.pdf
-[nccubeamer]: https://github.com/AbnerTeng/LaTeX-templates/tree/main/beamer
-[nccubeamer-pdf]: https://github.com/AbnerTeng/LaTeX-templates/blob/main/beamer/beamer.pdf
+[nccubeamer]: https://github.com/AbnerTeng/LaTeX-templates/tree/main/nccu_beamer
+[nccubeamer-pdf]: https://github.com/AbnerTeng/LaTeX-templates/blob/main/nccu_beamer/beamer.pdf
 [awesome-beamer]: https://github.com/LukasPietzschmann/awesome-beamer
 [awesome-beamer-pdf]: https://raw.githubusercontent.com/LukasPietzschmann/hydrogen-energy/build/talk.pdf
 [Mumbai]: https://github.com/vachan-potluri/beamer_themes/tree/main/Mumbai#readme
@@ -235,3 +247,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [pmichaillat-docs]: https://pascalmichaillat.org/d1
 [Amurmaple]: https://ctan.org/pkg/beamerthemeamurmaple
 [amurmaple-pdf]: https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/beamer-contrib/themes/beamerthemeamurmaple/doc/beamer-amurmaple-doc.pdf
+[Starkville]: https://github.com/DakotaHester/Starkville_beamer_theme
+[Starkville-pdf]: https://github.com/DakotaHester/Starkville_beamer_theme/blob/main/example_presentation.pdf
+[Soton]: https://github.com/tgodfrey0/soton-beamer
+[Soton-pdf]: https://github.com/tgodfrey0/soton-beamer/blob/main/beamer-example/beamer_test.pdf
