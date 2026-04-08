@@ -7,6 +7,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 
 |  Theme |  Preview |  Notes |
 | ------ | -------- | ------ |
+| [Jacquenetta] | [PDF][Jacquenetta-pdf] | A sleek, modern black-and-white theme designed for scientific presentations. Minimal and elegant.|
 | [beamerthemeblei] | [PDF][beamerthemeblei-pdf] | For academics. A clean and minimal Beamer theme mimicking David Blei's presentations
 | [pmichaillat] | [PDF][pmichaillat-pdf] | Pascal Michaillat's Minimalist LaTeX Template for Academic Presentations. Documentation can be found [here][pmichaillat-docs]. |
 | [Gotham-git] | [PDF][Gotham-pdf] | A modern, minimal-ish, versatile and extendable theme, which is bringing LaTeX3 power and flexibilty on top of Metropolis' good looking. It is also available on [CTAN][Gotham-ctan] repository. |
@@ -91,6 +92,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Soton] | [PDF][Soton-pdf] | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton |
 | [ucdavis-theme-xelatex] | [PDF][ucdavis-pdf] | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repo.  |
 
+[Jacquenetta]: https://github.com/smanchajm/Jacquenetta-beamer-theme
+[Jacquenetta-pdf]: https://github.com/smanchajm/Jacquenetta-beamer-theme/blob/main/example/example.pdf
 [ucdavis-theme-xelatex]: https://github.com/chesun/latex_templates/tree/main/ucdavis_beamer_theme_xelatex
 [ucdavis-pdf]: https://github.com/chesun/latex_templates/blob/main/ucdavis_beamer_theme_xelatex/ucdavis_theme_test.pdf
 [Gotham-git]: https://gitlab.com/RomainNOEL/beamertheme-gotham
