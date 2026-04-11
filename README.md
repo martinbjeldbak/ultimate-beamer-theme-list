@@ -8,11 +8,11 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 |  Theme |  Preview |  Notes |
 | ------ | -------- | ------ |
 | [Jacquenetta] | [PDF][Jacquenetta-pdf] | A sleek, modern black-and-white theme designed for scientific presentations. Minimal and elegant.|
-| [beamerthemeblei] | [PDF][beamerthemeblei-pdf] | For academics. A clean and minimal Beamer theme mimicking David Blei's presentations
+| [beamerthemeblei] | [PDF][beamerthemeblei-pdf] | For academics. A clean and minimal Beamer theme mimicking David Blei's presentations |
 | [pmichaillat] | [PDF][pmichaillat-pdf] | Pascal Michaillat's Minimalist LaTeX Template for Academic Presentations. Documentation can be found [here][pmichaillat-docs]. |
 | [Gotham-git] | [PDF][Gotham-pdf] | A modern, minimal-ish, versatile and extendable theme, which is bringing LaTeX3 power and flexibilty on top of Metropolis' good looking. It is also available on [CTAN][Gotham-ctan] repository. |
 | [beamer-progressbar] | [PDF][beamer-progressbar-pdf] | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [site][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repository. |
-| [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for latex beamer made by Fabrice Gadaud. |
+| [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for LaTeX beamer made by Fabrice Gadaud. |
 | [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
 | [IAS themes] | [Screenshot][IAS themes-screenshot] | Created by Frans Oliehoek. |
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
@@ -44,7 +44,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [McGill] | [PDF][McGill-pdf] | A theme with a nice McGill layout. |
 | [McGill-alt] | [PDF][McGill-alt-pdf] | A McGill theme that isn't red by Gabi Sarkis. |
 | [Execushares] | [PDF][Execushares-pdf] | A minimalist and modern Beamer theme by Kenton Hamaluik. |
-| [aecio] | [PDF][aecio-pdf] | A super simple and clean latex beamer theme, by Aécio Santos. |
+| [aecio] | [PDF][aecio-pdf] | A super simple and clean LaTeX beamer theme, by Aécio Santos. |
 | [supelec] | [PDF][supelec-pdf] | A beamer theme for Supélec, by Frédéric Boulanger. |
 | [CWRU] | | A basic Beamer theme for Case Western Reserve University, inspired by Montpellier and created by Matt Ruffalo. |
 | [Flip] | [PDF][Flip-pdf] | A theme by Philip "Flip" Tanedo. |
@@ -77,7 +77,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson |
 | [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace. |
 | [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen |
-| [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTex beamer presentation theme. |
+| [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTeX beamer presentation theme. |
 | [Arguelles] | [PDF][Arguelles-pdf] | Argüelles is a clean, typographic theme featuring the Alegreya font family. |
 | [PoliMi] | [PDF][polimi-pdf] | Beamer port of the official Polytechnic University of Milan presentation theme by Pasquale Claudio Africa. |
 | [strathbeamer] | [PDF][strathbeamer-pdf] | Unofficial beamer template following the official branding guidance for University of Strathclyde, by Roberto Metere. |
@@ -90,7 +90,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [nccubeamer] | [PDF][nccubeamer-pdf] | Unofficial beamer template following the official color code for National Chengchi University by Yu-Chen, Den. |
 | [Starkville] | [PDF][Starkville-pdf] | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester |
 | [Soton] | [PDF][Soton-pdf] | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton |
-| [ucdavis-theme-xelatex] | [PDF][ucdavis-pdf] | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repo.  |
+| [ucdavis-theme-xelatex] | [PDF][ucdavis-pdf] | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repository.  |
 
 [Jacquenetta]: https://github.com/smanchajm/Jacquenetta-beamer-theme
 [Jacquenetta-pdf]: https://github.com/smanchajm/Jacquenetta-beamer-theme/blob/main/example/example.pdf
