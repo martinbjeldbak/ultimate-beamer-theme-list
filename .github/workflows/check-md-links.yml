@@ -13,4 +13,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Scan for broken links
-        uses: gtcort/github-action-markdown-link-check@v1
+        uses: tcort/github-action-markdown-link-check@v1
