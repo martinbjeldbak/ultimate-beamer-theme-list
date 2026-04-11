@@ -1,20 +1,16 @@
 ---
 
 name: Check Markdown links
-
 permissions: read-all
-
 on:
   push:
   schedule:
-    - cron: "0 9 * * *" # every day at 9am
-
+    - cron: 0 9 * * * # every day at 9am
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Scan for broken links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        uses: gtcort/github-action-markdown-link-check@v1
