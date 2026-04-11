@@ -1,96 +1,97 @@
 # The Ultimate Beamer Theme List
+
 [![Check Markdown links](https://github.com/martinbjeldbak/ultimate-beamer-theme-list/actions/workflows/check-md-links.yml/badge.svg)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list/actions/workflows/check-md-links.yml)
 
 Hi! Below is a table of custom Beamer themes originally taken from latex.simon04.net (now archived), now expanded to include a few more themes.
 
 Want to add yours? Awesome! Send a PR with your link added to the bottom of the table, or email me (see my GitHub profile) and I'll do it for you.
 
-|  Theme |  Preview |  Notes |
-| ------ | -------- | ------ |
-| [Jacquenetta] | [PDF][Jacquenetta-pdf] | A sleek, modern black-and-white theme designed for scientific presentations. Minimal and elegant.|
-| [beamerthemeblei] | [PDF][beamerthemeblei-pdf] | For academics. A clean and minimal Beamer theme mimicking David Blei's presentations |
-| [pmichaillat] | [PDF][pmichaillat-pdf] | Pascal Michaillat's Minimalist LaTeX Template for Academic Presentations. Documentation can be found [here][pmichaillat-docs]. |
-| [Gotham-git] | [PDF][Gotham-pdf] | A modern, minimal-ish, versatile and extendable theme, which is bringing LaTeX3 power and flexibilty on top of Metropolis' good looking. It is also available on [CTAN][Gotham-ctan] repository. |
-| [beamer-progressbar] | [PDF][beamer-progressbar-pdf] | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [site][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repository. |
-| [CEA] | [PDF][CEA-pdf] | An unofficial CEA theme for LaTeX beamer made by Fabrice Gadaud. |
-| [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
-| [IAS themes] | [Screenshot][IAS themes-screenshot] | Created by Frans Oliehoek. |
-| [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
-| [UA] | [Screenshot][UA-screenshot] | A LaTeX beamer theme for the University of Antwerp. |
-| [UniversiteitGent] | [Screenshot][UniversiteitGent-screenshot] | This is a LaTeX beamer theme for the University of Ghent, based on the UA theme. |
-| [UNL] | [PDF][UNL-pdf] | Chris Bourke made a nice theme for the University of Nebraska-Lincoln. The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section. |
-| [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
-| [makokal-JUB] | [PDF][makokal-JUB-pdf] | Okal Billy's theme used while at Jacobs University. |
-| [kansai-debian] | [PDF][kansai-debian-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
-| [Lleida] |  | A theme created by Paulo Jorge Matos. |
-| [Sybila] | [PDF][Sybila-pdf] | A theme created by Sybila. |
-| [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. |
-| [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
-| [ZBH] | | Unofficial Beamer theme for the ZBH of the University of Hamburg. |
-| [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of Technische Universität Braunschweig |
-| [carlworld-beamer-slide-theme] | | Carl Compliant Beamer slide theme. |
-| [intridea] | | A Beamer theme for Intridea. |
-| [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
-| [Subdued] | [Screenshot][Subdued-pdf] | A subdued, stylish beamer template by Cameron Bracken |
-| [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen (me!) |
-| [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
-| [GC3] | [PDF][GC3-pdf] | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri. |
-| [BeamerPorts] | Various on project page | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer |
-| [Zurich] | | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
-| [metropolis] | [PDF][metropolis-pdf] | The metropolise theme (previously *m* or *mtheme*) is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang. |
-| [Frederiksberg] | [PDF][Frederiksberg-pdf] | Frederiksberg beamer theme from the University of Copenhagen. |
-| [UMBC] | [Screenshot][UMBC-screenshot] | A couple of themes made by Rouben Rostamian for UMBC University. |
-| [Uppsala] | [Screenshot][Uppsala-screenshot] | A theme for the Uppsala University of Sweden made by Frédéric Haziza. |
-| [McGill] | [PDF][McGill-pdf] | A theme with a nice McGill layout. |
-| [McGill-alt] | [PDF][McGill-alt-pdf] | A McGill theme that isn't red by Gabi Sarkis. |
-| [Execushares] | [PDF][Execushares-pdf] | A minimalist and modern Beamer theme by Kenton Hamaluik. |
-| [aecio] | [PDF][aecio-pdf] | A super simple and clean LaTeX beamer theme, by Aécio Santos. |
-| [supelec] | [PDF][supelec-pdf] | A beamer theme for Supélec, by Frédéric Boulanger. |
-| [CWRU] | | A basic Beamer theme for Case Western Reserve University, inspired by Montpellier and created by Matt Ruffalo. |
-| [Flip] | [PDF][Flip-pdf] | A theme by Philip "Flip" Tanedo. |
-| [Ithaca] | [PDF][Ithaca-pdf] | A theme based on Flip, created by Raul Gomez. |
-| [Gelugor] | [PDF][Gelugor-pdf] | A theme mimicking Universiti Sains Malaysia (USM)’s Powerpoint presentation template, by Lim Lian Tze. |
-| [Cyberjaya] | [PDF][Cyberjaya-pdf] | A theme mimicking Multimedia University (MMU)’s Powerpoint presentation template, by Lim Lian Tze. |
-| [Skudai] | [PDF][Skudai-pdf] | A theme mimicking Universiti Teknologi Malaysia (UTM)’s Powerpoint presentation template, by Lim Lian Tze. |
-| [Kalgan] | [PDF][Kalgan-pdf] | A dark theme by Kartik Prabhu. |
-| [simple] | [PDF][simple-pdf] | A minimalist theme with a watermark in the background, by Facundo Muñoz. |
-| [brown] |  | A theme for Brown University, by Andreas Kloeckner. |
-| [mit] |  | A theme for MIT based on brown, by Justin Riley. |
-| [sthlm] | [PDF][sthlm-pdf] | A theme heavily based on HSRM but with a slightly different design, the ability to compile with pdfLaTeX and no proprietary fonts required. Created by Mark Olson. |
-| [rured] | [PDF][rured-pdf] | An unofficial theme with the Radboud University colours, by Louis Onrust. |
-| [kuleuven] | [PDF][kuleuven-pdf] | A theme for KU Leuven, by Roland Pastorino. |
-| [ruhuisstijl] | [PDF][ruhuisstijl-pdf] | A theme which mimics the corporate and departemental style for the Radboud University powerpoint presentations. Created by Louis Onrust. |
-| [INRA] | [Screenshot][INRA-screenshot] | A theme reproducing the new corporate style of INRA, by François Guillaume. |
-| [Bredele] | [PDF][Bredele-pdf] | A theme using the colors of Framasoft, with a few boxes and tables. Created by Christophe Masutti. |
-| [nv] | [Screenshot][nv-screenshot] | A funky theme inspired by some nvidia slides (resource expansive though). Created by Serge "sans Paille" Guelton. |
-| [ampang] | [Screenshot][ampang-screenshot] | A theme which uses Ubuntu fonts, by Muhammad Najmi Ahmad Zabidi. |
-| [BlackBoard][kmbeamer] | [PDF][BlackBoard-pdf] | A theme mimicking a blackboard, by Kazuki Maeda. |
-| [DarkConsole][kmbeamer] | [PDF][DarkConsole-pdf] | A theme mimicking a virtual console, by Kazuki Maeda. |
-| [s4ndm4n] | [PDF][s4ndm4n-screenshot] | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel. |
-| [Saarland] | [PDF][Saarland-pdf] | An unofficial beamer theme for Saarland University, by Kailash Budhathoki. |
-| [TAU] | [PDF][TAU-pdf] | An unofficial beamer theme for Tel Aviv University, by Alex Liberzon. |
-| [uga-beamer-theme] | [PDF][uga-beamer-theme-pdf] | An unofficial beamer theme for University of Georgia, by Robert Robinson |
-| [fsu-beamer-theme] | [PDF][fsu-beamer-theme-pdf] | An unofficial beamer theme for Floridal State University, by Robert Robinson |
-| [fit-beamer-theme] | [PDF][fit-beamer-theme-pdf] | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson |
-| [usyd-beamer-theme] | [Releases][usyd-beamer-theme-release] | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay. |
-| [focus] | [PDF][focus-pdf] | A minimalist presentation theme for LaTeX Beamer by Pasquale Claudio Africa. |
-| [beamerthemeuconn] | [PDF][beamerthemeuconn-pdf] | Beamer themes for the University of Connecticut, by Cory Brunson |
-| [unina-beamer] | [PDF][unina-beamer-pdf] | A modern unofficial beamer theme for people at the University of Naples "*Federico II*" (UniNA), by Luigi L. L. Starace. |
-| [pure-minimalistic] | [PDF][pure-minimalistic-pdf] | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen |
-| [Auriga] | [PDF][auriga-pdf] | Auriga is a minimalist LaTeX beamer presentation theme. |
-| [Arguelles] | [PDF][Arguelles-pdf] | Argüelles is a clean, typographic theme featuring the Alegreya font family. |
-| [PoliMi] | [PDF][polimi-pdf] | Beamer port of the official Polytechnic University of Milan presentation theme by Pasquale Claudio Africa. |
-| [strathbeamer] | [PDF][strathbeamer-pdf] | Unofficial beamer template following the official branding guidance for University of Strathclyde, by Roberto Metere. |
-| [nclbeamer] | [PDF][nclbeamer-pdf] | Unofficial beamer template following the official branding guidance for Newcastle University, by Roberto Metere. |
-| [awesome-beamer] | [PDF][awesome-beamer-pdf] | A light, modern and minimal, thus beautiful theme by Lukas Pietzschmann, |
-| [Mumbai] | [PDF][Mumbai-pdf] | A blue coloured beamer theme that can interface with multiple beamer outer themes |
-| [lucid] | [PDF][lucid-pdf] | A modern Beamer theme you can use without installing dozens of CTAN packages |
-| [Moloch] | [Screenshot][Moloch-screenshot] | A clean and simple theme, forked off from the Metropolis theme |
-| [Amurmaple] | [PDF][amurmaple-pdf] | A modern beamer theme with sepframe by Maxime Chupin |
-| [nccubeamer] | [PDF][nccubeamer-pdf] | Unofficial beamer template following the official color code for National Chengchi University by Yu-Chen, Den. |
-| [Starkville] | [PDF][Starkville-pdf] | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester |
-| [Soton] | [PDF][Soton-pdf] | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton |
-| [ucdavis-theme-xelatex] | [PDF][ucdavis-pdf] | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repository.  |
+| Theme                          | Preview                                   | Notes                                                                                                                                                                                                              |
+| ------------------------------ | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Jacquenetta]                  | [PDF][Jacquenetta-pdf]                    | A sleek, modern black-and-white theme designed for scientific presentations. Minimal and elegant.                                                                                                                  |
+| [beamerthemeblei]              | [PDF][beamerthemeblei-pdf]                | For academics. A clean and minimal Beamer theme mimicking David Blei's presentations                                                                                                                               |
+| [pmichaillat]                  | [PDF][pmichaillat-pdf]                    | Pascal Michaillat's Minimalist LaTeX Template for Academic Presentations. Documentation can be found [here][pmichaillat-docs].                                                                                     |
+| [Gotham-git]                   | [PDF][Gotham-pdf]                         | A modern, minimal-ish, versatile and extendable theme, which is bringing LaTeX3 power and flexibilty on top of Metropolis' good looking. It is also available on [CTAN][Gotham-ctan] repository.                   |
+| [beamer-progressbar]           | [PDF][beamer-progressbar-pdf]             | Sylvain Bouveret has built an alternative beamer theme called progressbar, for more information, see his [site][beamer-progressbar-web]. More of his themes are in [this][beamer-progressbar-web-2] repository.    |
+| [CEA]                          | [PDF][CEA-pdf]                            | An unofficial CEA theme for LaTeX beamer made by Fabrice Gadaud.                                                                                                                                                   |
+| [diepen style]                 | [Screenshot][diepen style-screenshot]     | For those that like airplanes (or any other background image I suppose)                                                                                                                                            |
+| [IAS themes]                   | [Screenshot][IAS themes-screenshot]       | Created by Frans Oliehoek.                                                                                                                                                                                         |
+| [Torino]                       | [Screenshot][Torino-screenshot]           | A fresh looking theme called "Torino" made by Marco Barisione.                                                                                                                                                     |
+| [UA]                           | [Screenshot][UA-screenshot]               | A LaTeX beamer theme for the University of Antwerp.                                                                                                                                                                |
+| [UniversiteitGent]             | [Screenshot][UniversiteitGent-screenshot] | This is a LaTeX beamer theme for the University of Ghent, based on the UA theme.                                                                                                                                   |
+| [UNL]                          | [PDF][UNL-pdf]                            | Chris Bourke made a nice theme for the University of Nebraska-Lincoln. The `.sty` file can be found by scrolling down to the `LaTeX - Beamer` section.                                                             |
+| [makokal-ALUF]                 | [PDF][makokal-ALUF-pdf]                   | Okal Billy's theme used while at University of Freiburg.                                                                                                                                                           |
+| [makokal-JUB]                  | [PDF][makokal-JUB-pdf]                    | Okal Billy's theme used while at Jacobs University.                                                                                                                                                                |
+| [kansai-debian]                | [PDF][kansai-debian-pdf]                  | Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA.                                                                                                      |
+| [Lleida]                       |                                           | A theme created by Paulo Jorge Matos.                                                                                                                                                                              |
+| [Sybila]                       | [PDF][Sybila-pdf]                         | A theme created by Sybila.                                                                                                                                                                                         |
+| [bunsen]                       | [PDF][bunsen-pdf]                         | A XeTeX Beamer template by Seth Brown.                                                                                                                                                                             |
+| [LSE]                          | [PDF][LSE-pdf]                            | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud.                                                                                                                        |
+| [ZBH]                          |                                           | Unofficial Beamer theme for the ZBH of the University of Hamburg.                                                                                                                                                  |
+| [TU-BS]                        | [PDF][TU-BS-pdf]                          | A beamer theme complying with the corporate design of Technische Universität Braunschweig                                                                                                                          |
+| [carlworld-beamer-slide-theme] |                                           | Carl Compliant Beamer slide theme.                                                                                                                                                                                 |
+| [intridea]                     |                                           | A Beamer theme for Intridea.                                                                                                                                                                                       |
+| [HongKong]                     | [PDF][HongKong-pdf]                       | An Unofficial Beamer Theme for the Hong Kong Polytechnic University.                                                                                                                                               |
+| [Subdued]                      | [Screenshot][Subdued-pdf]                 | A subdued, stylish beamer template by Cameron Bracken                                                                                                                                                              |
+| [Bjeldbak]                     | [Screenshot][Bjeldbak-screenshot]         | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen (me!)                                                                                                                             |
+| [HSRM]                         | [PDF][HSRM-pdf]                           | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss.                                                                                                 |
+| [GC3]                          | [PDF][GC3-pdf]                            | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri.                                                                                                               |
+| [BeamerPorts]                  | Various on project page                   | A project by Márton Marczell attempting to port popular PowerPoint themes to Beamer                                                                                                                                |
+| [Zurich]                       |                                           | The Zurich beamer theme is a simplistic theme for Beamer, a fairly popular LaTeX class for creating presentations. The theme is heavily based on the excellent Flip Beamer template. Created by Patrick Pletscher. |
+| [metropolis]                   | [PDF][metropolis-pdf]                     | The metropolise theme (previously _m_ or _mtheme_) is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang.                                                                                  |
+| [Frederiksberg]                | [PDF][Frederiksberg-pdf]                  | Frederiksberg beamer theme from the University of Copenhagen.                                                                                                                                                      |
+| [UMBC]                         | [Screenshot][UMBC-screenshot]             | A couple of themes made by Rouben Rostamian for UMBC University.                                                                                                                                                   |
+| [Uppsala]                      | [Screenshot][Uppsala-screenshot]          | A theme for the Uppsala University of Sweden made by Frédéric Haziza.                                                                                                                                              |
+| [McGill]                       | [PDF][McGill-pdf]                         | A theme with a nice McGill layout.                                                                                                                                                                                 |
+| [McGill-alt]                   | [PDF][McGill-alt-pdf]                     | A McGill theme that isn't red by Gabi Sarkis.                                                                                                                                                                      |
+| [Execushares]                  | [PDF][Execushares-pdf]                    | A minimalist and modern Beamer theme by Kenton Hamaluik.                                                                                                                                                           |
+| [aecio]                        | [PDF][aecio-pdf]                          | A super simple and clean LaTeX beamer theme, by Aécio Santos.                                                                                                                                                      |
+| [supelec]                      | [PDF][supelec-pdf]                        | A beamer theme for Supélec, by Frédéric Boulanger.                                                                                                                                                                 |
+| [CWRU]                         |                                           | A basic Beamer theme for Case Western Reserve University, inspired by Montpellier and created by Matt Ruffalo.                                                                                                     |
+| [Flip]                         | [PDF][Flip-pdf]                           | A theme by Philip "Flip" Tanedo.                                                                                                                                                                                   |
+| [Ithaca]                       | [PDF][Ithaca-pdf]                         | A theme based on Flip, created by Raul Gomez.                                                                                                                                                                      |
+| [Gelugor]                      | [PDF][Gelugor-pdf]                        | A theme mimicking Universiti Sains Malaysia (USM)’s Powerpoint presentation template, by Lim Lian Tze.                                                                                                             |
+| [Cyberjaya]                    | [PDF][Cyberjaya-pdf]                      | A theme mimicking Multimedia University (MMU)’s Powerpoint presentation template, by Lim Lian Tze.                                                                                                                 |
+| [Skudai]                       | [PDF][Skudai-pdf]                         | A theme mimicking Universiti Teknologi Malaysia (UTM)’s Powerpoint presentation template, by Lim Lian Tze.                                                                                                         |
+| [Kalgan]                       | [PDF][Kalgan-pdf]                         | A dark theme by Kartik Prabhu.                                                                                                                                                                                     |
+| [simple]                       | [PDF][simple-pdf]                         | A minimalist theme with a watermark in the background, by Facundo Muñoz.                                                                                                                                           |
+| [brown]                        |                                           | A theme for Brown University, by Andreas Kloeckner.                                                                                                                                                                |
+| [mit]                          |                                           | A theme for MIT based on brown, by Justin Riley.                                                                                                                                                                   |
+| [sthlm]                        | [PDF][sthlm-pdf]                          | A theme heavily based on HSRM but with a slightly different design, the ability to compile with pdfLaTeX and no proprietary fonts required. Created by Mark Olson.                                                 |
+| [rured]                        | [PDF][rured-pdf]                          | An unofficial theme with the Radboud University colours, by Louis Onrust.                                                                                                                                          |
+| [kuleuven]                     | [PDF][kuleuven-pdf]                       | A theme for KU Leuven, by Roland Pastorino.                                                                                                                                                                        |
+| [ruhuisstijl]                  | [PDF][ruhuisstijl-pdf]                    | A theme which mimics the corporate and departemental style for the Radboud University powerpoint presentations. Created by Louis Onrust.                                                                           |
+| [INRA]                         | [Screenshot][INRA-screenshot]             | A theme reproducing the new corporate style of INRA, by François Guillaume.                                                                                                                                        |
+| [Bredele]                      | [PDF][Bredele-pdf]                        | A theme using the colors of Framasoft, with a few boxes and tables. Created by Christophe Masutti.                                                                                                                 |
+| [nv]                           | [Screenshot][nv-screenshot]               | A funky theme inspired by some nvidia slides (resource expansive though). Created by Serge "sans Paille" Guelton.                                                                                                  |
+| [ampang]                       | [Screenshot][ampang-screenshot]           | A theme which uses Ubuntu fonts, by Muhammad Najmi Ahmad Zabidi.                                                                                                                                                   |
+| [BlackBoard][kmbeamer]         | [PDF][BlackBoard-pdf]                     | A theme mimicking a blackboard, by Kazuki Maeda.                                                                                                                                                                   |
+| [DarkConsole][kmbeamer]        | [PDF][DarkConsole-pdf]                    | A theme mimicking a virtual console, by Kazuki Maeda.                                                                                                                                                              |
+| [s4ndm4n]                      | [PDF][s4ndm4n-screenshot]                 | A dark theme with color-accented boxes and a verbose footline. Created by Andreas Rümpel.                                                                                                                          |
+| [Saarland]                     | [PDF][Saarland-pdf]                       | An unofficial beamer theme for Saarland University, by Kailash Budhathoki.                                                                                                                                         |
+| [TAU]                          | [PDF][TAU-pdf]                            | An unofficial beamer theme for Tel Aviv University, by Alex Liberzon.                                                                                                                                              |
+| [uga-beamer-theme]             | [PDF][uga-beamer-theme-pdf]               | An unofficial beamer theme for University of Georgia, by Robert Robinson                                                                                                                                           |
+| [fsu-beamer-theme]             | [PDF][fsu-beamer-theme-pdf]               | An unofficial beamer theme for Floridal State University, by Robert Robinson                                                                                                                                       |
+| [fit-beamer-theme]             | [PDF][fit-beamer-theme-pdf]               | An unofficial beamer theme for SUNY Fashion Institute of Technology, by Robert Robinson                                                                                                                            |
+| [usyd-beamer-theme]            | [Releases][usyd-beamer-theme-release]     | An unofficial beamer theme for The University of Sydney, by Malcolm Ramsay.                                                                                                                                        |
+| [focus]                        | [PDF][focus-pdf]                          | A minimalist presentation theme for LaTeX Beamer by Pasquale Claudio Africa.                                                                                                                                       |
+| [beamerthemeuconn]             | [PDF][beamerthemeuconn-pdf]               | Beamer themes for the University of Connecticut, by Cory Brunson                                                                                                                                                   |
+| [unina-beamer]                 | [PDF][unina-beamer-pdf]                   | A modern unofficial beamer theme for people at the University of Naples "_Federico II_" (UniNA), by Luigi L. L. Starace.                                                                                           |
+| [pure-minimalistic]            | [PDF][pure-minimalistic-pdf]              | A true minimalistic theme; Provides normal and dark mode, by Kai Norman Clasen                                                                                                                                     |
+| [Auriga]                       | [PDF][auriga-pdf]                         | Auriga is a minimalist LaTeX beamer presentation theme.                                                                                                                                                            |
+| [Arguelles]                    | [PDF][Arguelles-pdf]                      | Argüelles is a clean, typographic theme featuring the Alegreya font family.                                                                                                                                        |
+| [PoliMi]                       | [PDF][polimi-pdf]                         | Beamer port of the official Polytechnic University of Milan presentation theme by Pasquale Claudio Africa.                                                                                                         |
+| [strathbeamer]                 | [PDF][strathbeamer-pdf]                   | Unofficial beamer template following the official branding guidance for University of Strathclyde, by Roberto Metere.                                                                                              |
+| [nclbeamer]                    | [PDF][nclbeamer-pdf]                      | Unofficial beamer template following the official branding guidance for Newcastle University, by Roberto Metere.                                                                                                   |
+| [awesome-beamer]               | [PDF][awesome-beamer-pdf]                 | A light, modern and minimal, thus beautiful theme by Lukas Pietzschmann,                                                                                                                                           |
+| [Mumbai]                       | [PDF][Mumbai-pdf]                         | A blue coloured beamer theme that can interface with multiple beamer outer themes                                                                                                                                  |
+| [lucid]                        | [PDF][lucid-pdf]                          | A modern Beamer theme you can use without installing dozens of CTAN packages                                                                                                                                       |
+| [Moloch]                       | [Screenshot][Moloch-screenshot]           | A clean and simple theme, forked off from the Metropolis theme                                                                                                                                                     |
+| [Amurmaple]                    | [PDF][amurmaple-pdf]                      | A modern beamer theme with sepframe by Maxime Chupin                                                                                                                                                               |
+| [nccubeamer]                   | [PDF][nccubeamer-pdf]                     | Unofficial beamer template following the official color code for National Chengchi University by Yu-Chen, Den.                                                                                                     |
+| [Starkville]                   | [PDF][Starkville-pdf]                     | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester                                                                                                                      |
+| [Soton]                        | [PDF][Soton-pdf]                          | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton                                                                                         |
+| [ucdavis-theme-xelatex]        | [PDF][ucdavis-pdf]                        | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repository.                                                                                  |
 
 [Jacquenetta]: https://github.com/smanchajm/Jacquenetta-beamer-theme
 [Jacquenetta-pdf]: https://github.com/smanchajm/Jacquenetta-beamer-theme/blob/main/example/example.pdf
@@ -226,7 +227,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [pure-minimalistic]: https://github.com/kai-tub/latex-beamer-pure-minimalistic
 [pure-minimalistic-pdf]: https://github.com/kai-tub/latex-beamer-pure-minimalistic/wiki/beamertheme-pure-minimalistic-demo.pdf
 [auriga]: https://github.com/anishathalye/auriga
-[auriga-pdf]:https://raw.githubusercontent.com/anishathalye/assets/master/auriga/auriga.pdf
+[auriga-pdf]: https://raw.githubusercontent.com/anishathalye/assets/master/auriga/auriga.pdf
 [Arguelles]: https://github.com/piazzai/arguelles
 [Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo/demo-arguelles.pdf
 [PoliMi]: https://github.com/elauksap/beamerthemepolimi

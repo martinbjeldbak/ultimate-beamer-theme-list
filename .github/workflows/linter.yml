@@ -1,5 +1,4 @@
 ---
-
 name: Lint
 on: push
 permissions: read-all
@@ -21,4 +20,3 @@ jobs:
         uses: github/super-linter@v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
