@@ -92,6 +92,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Starkville]                   | [PDF][Starkville-pdf]                     | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester                                                                                                                      |
 | [Soton]                        | [PDF][Soton-pdf]                          | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton                                                                                         |
 | [ucdavis-theme-xelatex]        | [PDF][ucdavis-pdf]                        | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repository.                                                                                  |
+| [wildcat]        | [PDF][wildcat-pdf]                        | A modern, simple beamer theme with easily editable background graphics. Currently fitted for Northwestern University, but easily changed for general purpose use.                                                                                 |
+ 
 
 [Jacquenetta]: https://github.com/smanchajm/Jacquenetta-beamer-theme
 [Jacquenetta-pdf]: https://github.com/smanchajm/Jacquenetta-beamer-theme/blob/main/example/example.pdf
@@ -255,3 +257,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Starkville-pdf]: https://github.com/DakotaHester/Starkville_beamer_theme/blob/main/example_presentation.pdf
 [Soton]: https://github.com/tgodfrey0/soton-beamer
 [Soton-pdf]: https://github.com/tgodfrey0/soton-beamer/blob/main/beamer-example/beamer_test.pdf
+[wildcat]:https://github.com/aarondwolf/wildcat
+[wildcat-pdf]:https://github.com/aarondwolf/wildcat/blob/main/source/wildcat-demo.pdf
