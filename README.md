@@ -257,5 +257,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Starkville-pdf]: https://github.com/DakotaHester/Starkville_beamer_theme/blob/main/example_presentation.pdf
 [Soton]: https://github.com/tgodfrey0/soton-beamer
 [Soton-pdf]: https://github.com/tgodfrey0/soton-beamer/blob/main/beamer-example/beamer_test.pdf
-[wildcat]:https://github.com/aarondwolf/wildcat
-[wildcat-pdf]:https://github.com/aarondwolf/wildcat/blob/main/source/wildcat-demo.pdf
+[wildcat]: https://github.com/aarondwolf/wildcat
+[wildcat-pdf]: https://github.com/aarondwolf/wildcat/blob/main/source/wildcat-demo.pdf
