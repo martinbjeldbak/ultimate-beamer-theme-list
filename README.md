@@ -93,7 +93,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Soton]                        | [PDF][Soton-pdf]                          | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton                                                                                         |
 | [ucdavis-theme-xelatex]        | [PDF][ucdavis-pdf]                        | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repository.                                                                                  |
 | [wildcat]        | [PDF][wildcat-pdf]                        | A modern, simple beamer theme with easily editable background graphics. Currently fitted for Northwestern University, but easily changed for general purpose use.                                                                                 |
- 
+
 
 [Jacquenetta]: https://github.com/smanchajm/Jacquenetta-beamer-theme
 [Jacquenetta-pdf]: https://github.com/smanchajm/Jacquenetta-beamer-theme/blob/main/example/example.pdf
