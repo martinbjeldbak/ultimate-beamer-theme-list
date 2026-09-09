@@ -93,6 +93,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Soton]                        | [PDF][Soton-pdf]                          | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton                                                                                         |
 | [ucdavis-theme-xelatex]        | [PDF][ucdavis-pdf]                        | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repository.                                                                                  |
 | [wildcat]        | [PDF][wildcat-pdf]                        | A modern, simple beamer theme with easily editable background graphics. Currently fitted for Northwestern University, but easily changed for general purpose use.                                                                                 |
+| [midcenturymodern]             | [PDF][midcenturymodern-pdf]               | A retro yet modern template, inspired by mid-century modern graphical design. Created by Jules Leguy.                                                                                                              |
 
 
 [Jacquenetta]: https://github.com/smanchajm/Jacquenetta-beamer-theme
@@ -259,3 +260,5 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Soton-pdf]: https://github.com/tgodfrey0/soton-beamer/blob/main/beamer-example/beamer_test.pdf
 [wildcat]: https://github.com/aarondwolf/wildcat
 [wildcat-pdf]: https://github.com/aarondwolf/wildcat/blob/main/source/wildcat-demo.pdf
+[midcenturymodern]: https://github.com/jules-leguy/midcenturymodern
+[midcenturymodern-pdf]: https://github.com/jules-leguy/midcenturymodern/blob/main/demo.pdf
