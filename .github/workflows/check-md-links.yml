@@ -3,6 +3,8 @@ name: Check Markdown links
 permissions: read-all
 on:
   push:
+    paths:
+      - README.md
   schedule:
     - cron: 0 9 * * * # every day at 9am
 jobs:
@@ -11,5 +13,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
       - name: Scan for broken links
-        uses: tcort/github-action-markdown-link-check@e047c5b37f24ab722bbef1a27b6fab7f96bc4068 # v1
+        uses: tcort/github-action-markdown-link-check@e047c5b37f24ab722bbef1a27b6fab7f96bc4068 # v1.1.3
