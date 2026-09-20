@@ -41,7 +41,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [metropolis]                   | [PDF][metropolis-pdf]                     | The metropolise theme (previously _m_ or _mtheme_) is a modern Beamer theme with minimal visual. Created by Matthias Vogelgesang.                                                                                  |
 | [Frederiksberg]                | [PDF][Frederiksberg-pdf]                  | Frederiksberg beamer theme from the University of Copenhagen.                                                                                                                                                      |
 | [UMBC]                         | [Screenshot][UMBC-screenshot]             | A couple of themes made by Rouben Rostamian for UMBC University.                                                                                                                                                   |
-| [Uppsala]                      | [Screenshot][Uppsala-screenshot]          | A theme for the Uppsala University of Sweden made by Frédéric Haziza.                                                                                                                                              |
 | [McGill]                       | [PDF][McGill-pdf]                         | A theme with a nice McGill layout.                                                                                                                                                                                 |
 | [McGill-alt]                   | [PDF][McGill-alt-pdf]                     | A McGill theme that isn't red by Gabi Sarkis.                                                                                                                                                                      |
 | [Execushares]                  | [PDF][Execushares-pdf]                    | A minimalist and modern Beamer theme by Kenton Hamaluik.                                                                                                                                                           |
@@ -92,9 +91,8 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [Starkville]                   | [PDF][Starkville-pdf]                     | A Mississippi State University inspired theme for LaTeX Beamer presentations by Dakota Hester                                                                                                                      |
 | [Soton]                        | [PDF][Soton-pdf]                          | A modern beamer theme with easy customisation and few required packages by Toby Godfrey from the University of Southampton                                                                                         |
 | [ucdavis-theme-xelatex]        | [PDF][ucdavis-pdf]                        | An XeLaTeX beamer theme for University of California, Davis (unofficial). A pdflatex version is available in the same repository.                                                                                  |
-| [wildcat]        | [PDF][wildcat-pdf]                        | A modern, simple beamer theme with easily editable background graphics. Currently fitted for Northwestern University, but easily changed for general purpose use.                                                                                 |
+| [wildcat]                      | [PDF][wildcat-pdf]                        | A modern, simple beamer theme with easily editable background graphics. Currently fitted for Northwestern University, but easily changed for general purpose use.                                                  |
 | [midcenturymodern]             | [PDF][midcenturymodern-pdf]               | A retro yet modern template, inspired by mid-century modern graphical design. Created by Jules Leguy.                                                                                                              |
-
 
 [Jacquenetta]: https://github.com/smanchajm/Jacquenetta-beamer-theme
 [Jacquenetta-pdf]: https://github.com/smanchajm/Jacquenetta-beamer-theme/blob/main/example/example.pdf
@@ -159,8 +157,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [Frederiksberg-PDF]: https://github.com/cbourjau/frederiksberg_beamer/raw/master/FrederiksbergUserGuide-2-2.pdf
 [UMBC]: http://userpages.umbc.edu/~rostamia/beamer/quickstart-Z-H-8.html#node_sec_8
 [UMBC-screenshot]: http://userpages.umbc.edu/~rostamia/beamer/sample-umbc1.png
-[Uppsala]: http://www.it.uu.se/katalog/daz/uppsala_beamer
-[Uppsala-screenshot]: http://www.it.uu.se/katalog/daz/uppsala_beamer/beamerUppsalaExampleFrame.jpg
 [McGill]: http://structdynviblab.mcgill.ca/archives/layoutBeamerMcGill.7z
 [McGill-pdf]: https://github.com/martinbjeldbak/ultimate-beamer-theme-list/files/7918232/MainFile.pdf
 [McGill-alt]: https://github.com/gsarkis/McGill-Beamer-Theme
@@ -232,7 +228,7 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 [auriga]: https://github.com/anishathalye/auriga
 [auriga-pdf]: https://raw.githubusercontent.com/anishathalye/assets/master/auriga/auriga.pdf
 [Arguelles]: https://github.com/piazzai/arguelles
-[Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo/demo-arguelles.pdf
+[Arguelles-pdf]: https://github.com/piazzai/arguelles/blob/master/demo-arguelles.pdf
 [PoliMi]: https://github.com/elauksap/beamerthemepolimi
 [PoliMi-pdf]: https://github.com/elauksap/beamerthemepolimi/raw/master/demo.pdf
 [strathbeamer]: https://github.com/nitrogl/strathbeamer
